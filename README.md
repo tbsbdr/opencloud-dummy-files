@@ -8,7 +8,6 @@ folder shares for external partners and public links.
 ## Quick start
 
 ```bash
-git clone <this repo> weyland-energy-demo-data
 cd weyland-energy-demo-data
 python3 populate.py
 ```
@@ -24,7 +23,22 @@ Admin password  [*****]        (default: admin)
 That's it. A full run takes about **15–25 minutes** on a local instance. You can run it again at any
 time – it only adds what is missing and updates what changed.
 
-Windows: `populate.cmd` · macOS/Linux: `./populate.sh` (both just call `python3 populate.py`).
+macOS/Linux: `./populate.sh` (both just call `python3 populate.py`).
+
+## What gets created
+
+| | |
+|---|---|
+| Users | 1,000: 450 employees (Hamburg, Edinburgh, Copenhagen), 500 external partners from 19 companies, 5 supervisory board members, 45 former employees (disabled) |
+| Groups | departments, offices, project teams, partner companies (`ext-…`), `all-staff`, … |
+| Spaces | 25 – projects (e.g. Harrow Bay Offshore Wind), departments (Finance, HR, Legal, …), company-wide (Handbook, Brand Assets, …) with description, image and readme |
+| Access | realistic: departments edit their space, project teams their project, everyone reads the handbook; confidential spaces restricted; externals only get the folders they work on |
+| Files | ~1,100 company documents with real, consistent content + ~4,300 personal files; original modification dates and older versions |
+| Sharing | ~4,600 shares between users (≈ 5 per user), 50+ public links, tags on ~600 files |
+| Search | try `HB-RISK-017`, `harbour porpoise`, `WE-PPA-2026-004`, `skylark`, `Arcturus` |
+
+`data/metadata.json` describes everything: company, users, groups, spaces, members, every file
+(title, author, dates, tags, shares, versions) and suggested search terms.
 
 ### No questions asked
 
@@ -60,20 +74,7 @@ All demo users have the password **`demo`**. Good accounts for demos:
 
 Public links are protected with the password **`Weyland-2026!`**.
 
-## What gets created
 
-| | |
-|---|---|
-| Users | 1,000: 450 employees (Hamburg, Edinburgh, Copenhagen), 500 external partners from 19 companies, 5 supervisory board members, 45 former employees (disabled) |
-| Groups | departments, offices, project teams, partner companies (`ext-…`), `all-staff`, … |
-| Spaces | 25 – projects (e.g. Harrow Bay Offshore Wind), departments (Finance, HR, Legal, …), company-wide (Handbook, Brand Assets, …) with description, image and readme |
-| Access | realistic: departments edit their space, project teams their project, everyone reads the handbook; confidential spaces restricted; externals only get the folders they work on |
-| Files | ~1,100 company documents with real, consistent content + ~4,300 personal files; original modification dates and older versions |
-| Sharing | ~4,600 shares between users (≈ 5 per user), 50+ public links, tags on ~600 files |
-| Search | try `HB-RISK-017`, `harbour porpoise`, `WE-PPA-2026-004`, `skylark`, `Arcturus` |
-
-`data/metadata.json` describes everything: company, users, groups, spaces, members, every file
-(title, author, dates, tags, shares, versions) and suggested search terms.
 
 ## Remove the demo data
 
@@ -92,5 +93,4 @@ Deletes the 25 spaces, the 1,000 users (incl. their personal files) and the grou
 | Personal files / profile pictures skipped | The demo users already existed with another password – run with `--user-password <their password>` or reset first. |
 | Run was interrupted | Just start it again. |
 
-All companies, people and numbers are fictional. Faces from thispersondoesnotexist.com (AI generated);
-photos generated with Google Gemini.
+All companies, people and numbers are fictional. All Content, faces and photos are generated.
