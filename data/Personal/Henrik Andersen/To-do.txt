@@ -1,0 +1,8 @@
+Henrik's list – August 2026
+
+- [ ] Ask for input from Iain – array cable routing options
+- [ ] Share draft with Hendrik – scada tag list
+- [ ] Check open points with Duncan – scada tag list
+- [x] Prepare slides for Isla – wake loss sensitivity
+- [x] Ask for input from Robert – met mast data qa
+- [ ] Mandatory training: information security

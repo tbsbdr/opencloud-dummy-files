@@ -1,0 +1,97 @@
+{
+  "quiz_id": "ENG-01-Q",
+  "title": "Renewable Energy Fundamentals – final quiz",
+  "pass_mark": 0.7,
+  "questions": [
+    {
+      "q": "What does a capacity factor of 31.2 % mean for Kestrel Ridge?",
+      "options": [
+        "The turbines run 31.2 % of the time",
+        "Output equals 31.2 % of what the farm would produce at full power all year",
+        "31.2 % of turbines are available"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Harrow Bay uses which foundation type?",
+      "options": [
+        "Floating semi-submersible",
+        "Monopile",
+        "Gravity base"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What keeps a floating turbine in place?",
+      "options": [
+        "Monopile",
+        "Mooring lines and anchors",
+        "Its own weight only"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "A 20 MW / 40 MWh battery can discharge at full power for…",
+      "options": [
+        "20 minutes",
+        "2 hours",
+        "40 hours"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is a PPA?",
+      "options": [
+        "A planning permission",
+        "A long-term power purchase agreement",
+        "A grid code"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does COD stand for?",
+      "options": [
+        "Commercial operation date",
+        "Cable outage duration",
+        "Certificate of design"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Why are bubble curtains used during piling?",
+      "options": [
+        "To cool the hammer",
+        "To reduce underwater noise for marine mammals",
+        "To clean the monopile"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which electrolyser technology does the Green Hydrogen Pilot plan to use?",
+      "options": [
+        "Alkaline",
+        "PEM",
+        "Solid oxide"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What is wake loss?",
+      "options": [
+        "Losses in the export cable",
+        "Energy lost behind upstream turbines",
+        "Turbine downtime at night"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Who is the offtaker of WE-PPA-2026-004?",
+      "options": [
+        "NordGrid Transmission",
+        "Arcturus Steel AG",
+        "Hanseatic Infrastructure Bank"
+      ],
+      "answer": 1
+    }
+  ]
+}

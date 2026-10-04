@@ -1,0 +1,10 @@
+Tech Watch: Sodium-ion Batteries
+================================
+
+Tech Watch: Sodium-ion batteries – quick note after supplier visit, 17 Aug 2026 (Sofie)
+
+- Energy density about 30 % below LFP – not an issue for stationary storage, but footprint grows.
+- Better low-temperature performance, no lithium, cobalt or nickel.
+- Cycle life claims of 6,000+ cycles are not yet backed by field data.
+- Bankability: no lender has financed a utility-scale sodium-ion project in our markets yet.
+- Verdict: watch. Not for Fenwick (FID 2028). Revisit 2027.

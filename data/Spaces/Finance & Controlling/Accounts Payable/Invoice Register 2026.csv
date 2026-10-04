@@ -1,0 +1,177 @@
+invoice_no,supplier,entity,cost_centre,project,invoice_date,due_date,description,net_amount,vat,gross_amount,currency,po_number,status
+INV-2026-00001,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-01-03,2026-02-02,Accommodation project team,5849.31,1169.86,7019.17,GBP,PO-4500105512,Paid
+INV-2026-00002,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-01-05,2026-02-04,Accommodation project team,2517.59,503.52,3021.11,GBP,PO-4500107903,Paid
+INV-2026-00003,NordGrid Transmission,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-06,2026-02-05,Grid connection works,588611.72,117722.34,706334.06,GBP,PO-4500107216,Paid
+INV-2026-00004,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-07,2026-02-06,Cable supply milestone,5424327.96,0.00,5424327.96,EUR,PO-4500108793,Paid
+INV-2026-00005,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-01-13,2026-02-12,Office cleaning Copenhagen,16408.14,4102.03,20510.17,DKK,PO-4500101048,Paid
+INV-2026-00006,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-01-14,2026-02-13,Pre-construction design services,39187.58,7837.52,47025.10,GBP,PO-4500102328,Paid
+INV-2026-00007,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-14,2026-02-13,Seabird and marine mammal surveys,42120.43,8424.09,50544.52,GBP,PO-4500107307,Paid
+INV-2026-00008,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-15,2026-02-14,Lenders' technical adviser,44672.59,0.00,44672.59,EUR,PO-4500101359,Paid
+INV-2026-00009,Rhenus Steelworks Foundations GmbH,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-16,2026-02-15,Monopile delivery batch,7238331.60,0.00,7238331.60,EUR,PO-4500102102,Paid
+INV-2026-00010,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-01-16,2026-02-15,Pre-construction design services,14239.65,2847.93,17087.58,GBP,PO-4500107593,Paid
+INV-2026-00011,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-16,2026-02-15,Seabird and marine mammal surveys,47761.45,9552.29,57313.74,GBP,PO-4500104910,Paid
+INV-2026-00012,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-01-18,2026-02-17,Office cleaning Copenhagen,12244.50,3061.12,15305.62,DKK,PO-4500104551,Paid
+INV-2026-00013,Northlight IT Services,Weyland Energy GmbH,1400,,2026-01-18,2026-02-17,Managed IT services,28606.66,5435.27,34041.93,EUR,PO-4500104146,Paid
+INV-2026-00014,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-20,2026-02-19,Quay lease and port dues,175468.60,35093.72,210562.32,GBP,PO-4500106893,Paid
+INV-2026-00015,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-01-20,2026-02-19,Office cleaning Copenhagen,25292.17,6323.04,31615.21,DKK,PO-4500106950,Paid
+INV-2026-00016,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-01-21,2026-02-20,North Sea Energy Summit booth B4.210,26123.10,4963.39,31086.49,EUR,PO-4500105017,Paid
+INV-2026-00017,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-01-22,2026-02-21,North Sea Energy Summit booth B4.210,63201.14,12008.22,75209.36,EUR,PO-4500104117,Paid
+INV-2026-00018,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-23,2026-02-22,Lenders' technical adviser,76642.70,0.00,76642.70,EUR,PO-4500105921,Paid
+INV-2026-00019,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-25,2026-02-24,Lenders' technical adviser,89989.72,0.00,89989.72,EUR,PO-4500105857,Paid
+INV-2026-00020,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-01-29,2026-02-28,Pre-construction design services,14699.27,2939.85,17639.12,GBP,PO-4500109235,Paid
+INV-2026-00021,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-01-29,2026-02-28,O&M service fee,114801.75,22960.35,137762.10,GBP,PO-4500103113,Paid
+INV-2026-00022,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-01-31,2026-03-02,MV Sea Atlas charter hire,2287696.07,0.00,2287696.07,EUR,PO-4500105159,Paid
+INV-2026-00023,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-02,2026-03-04,MV Sea Atlas charter hire,2853467.51,0.00,2853467.51,EUR,PO-4500108330,Paid
+INV-2026-00024,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-02-03,2026-03-05,Accommodation project team,3795.27,759.05,4554.32,GBP,PO-4500108495,Paid
+INV-2026-00025,Northlight IT Services,Weyland Energy GmbH,1400,,2026-02-03,2026-03-05,Managed IT services,31096.88,5908.41,37005.29,EUR,PO-4500105398,Paid
+INV-2026-00026,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-02-07,2026-03-09,Accommodation project team,3288.65,657.73,3946.38,GBP,PO-4500105632,Paid
+INV-2026-00027,Northlight IT Services,Weyland Energy GmbH,1400,,2026-02-08,2026-03-10,Managed IT services,51558.04,9796.03,61354.07,EUR,PO-4500106529,Paid
+INV-2026-00028,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-02-09,2026-03-11,Pre-construction design services,22972.40,4594.48,27566.88,GBP,PO-4500109381,Paid
+INV-2026-00029,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-11,2026-03-13,MV Sea Atlas charter hire,2613784.55,0.00,2613784.55,EUR,PO-4500103020,Paid
+INV-2026-00030,Northlight IT Services,Weyland Energy GmbH,1400,,2026-02-13,2026-03-15,Managed IT services,18315.45,3479.94,21795.39,EUR,PO-4500101718,Paid
+INV-2026-00031,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-02-15,2026-03-17,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500105530,Paid
+INV-2026-00032,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-02-16,2026-03-18,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500101508,Paid
+INV-2026-00033,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-22,2026-03-24,MV Sea Atlas charter hire,1852934.61,0.00,1852934.61,EUR,PO-4500105702,Paid
+INV-2026-00034,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-22,2026-03-24,MV Sea Atlas charter hire,4169704.29,0.00,4169704.29,EUR,PO-4500106458,Paid
+INV-2026-00035,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-02-25,2026-03-27,Office cleaning Copenhagen,19989.11,4997.28,24986.39,DKK,PO-4500107066,Paid
+INV-2026-00036,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-25,2026-03-27,MV Sea Atlas charter hire,2677832.09,0.00,2677832.09,EUR,PO-4500103411,Paid
+INV-2026-00037,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-02-26,2026-03-28,Seabird and marine mammal surveys,38848.37,7769.67,46618.04,GBP,PO-4500104847,Paid
+INV-2026-00038,Northlight IT Services,Weyland Energy GmbH,1400,,2026-02-27,2026-03-29,Managed IT services,47936.43,9107.92,57044.35,EUR,PO-4500102328,Paid
+INV-2026-00039,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-03-01,2026-03-31,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500106887,Paid
+INV-2026-00040,Keller & Rowe Wirtschaftsprüfung,Weyland Energy GmbH,1100,,2026-03-01,2026-03-31,Audit fees,89661.19,17035.63,106696.82,EUR,PO-4500108037,Paid
+INV-2026-00041,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-03-02,2026-04-01,Office cleaning Copenhagen,22545.78,5636.44,28182.22,DKK,PO-4500105670,Paid
+INV-2026-00042,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-03-04,2026-04-03,Accommodation project team,8938.60,1787.72,10726.32,GBP,PO-4500105683,Paid
+INV-2026-00043,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-03-05,2026-04-04,Accommodation project team,4500.83,900.17,5401.00,GBP,PO-4500105520,Paid
+INV-2026-00044,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-03-07,2026-04-06,O&M service fee,102274.02,20454.80,122728.82,GBP,PO-4500102978,Paid
+INV-2026-00045,Rhenus Steelworks Foundations GmbH,Harrow Bay Offshore Wind Ltd,4000,HB,2026-03-09,2026-04-08,Monopile delivery batch,7994201.37,0.00,7994201.37,EUR,PO-4500101149,Paid
+INV-2026-00046,Keller & Rowe Wirtschaftsprüfung,Weyland Energy GmbH,1100,,2026-03-09,2026-04-08,Audit fees,44884.80,8528.11,53412.91,EUR,PO-4500104986,Paid
+INV-2026-00047,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-03-09,2026-04-08,North Sea Energy Summit booth B4.210,51530.51,9790.80,61321.31,EUR,PO-4500102586,Paid
+INV-2026-00048,NordGrid Transmission,Harrow Bay Offshore Wind Ltd,4000,HB,2026-03-09,2026-04-08,Grid connection works,618760.33,123752.07,742512.40,GBP,PO-4500109628,Paid
+INV-2026-00049,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-03-11,2026-04-10,Accommodation project team,8497.95,1699.59,10197.54,GBP,PO-4500105737,Paid
+INV-2026-00050,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-03-14,2026-04-13,Quay lease and port dues,91708.49,18341.70,110050.19,GBP,PO-4500104522,Paid
+INV-2026-00051,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-03-15,2026-04-14,Office cleaning Copenhagen,25847.78,6461.94,32309.72,DKK,PO-4500106722,Paid
+INV-2026-00052,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-03-16,2026-04-15,North Sea Energy Summit booth B4.210,40435.03,7682.66,48117.69,EUR,PO-4500104418,Paid
+INV-2026-00053,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-03-22,2026-04-21,O&M service fee,122326.16,24465.23,146791.39,GBP,PO-4500101539,Paid
+INV-2026-00054,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-03-24,2026-04-23,North Sea Energy Summit booth B4.210,12479.68,2371.14,14850.82,EUR,PO-4500107042,Paid
+INV-2026-00055,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-03-25,2026-04-24,Lenders' technical adviser,57803.15,0.00,57803.15,EUR,PO-4500106773,Paid
+INV-2026-00056,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-03-27,2026-04-26,O&M service fee,69716.92,13943.38,83660.30,GBP,PO-4500101565,Paid
+INV-2026-00057,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-03-31,2026-04-30,Office cleaning Copenhagen,12418.06,3104.51,15522.57,DKK,PO-4500109980,Paid
+INV-2026-00058,Northlight IT Services,Weyland Energy GmbH,1400,,2026-03-31,2026-04-30,Managed IT services,65333.45,12413.36,77746.81,EUR,PO-4500106733,Paid
+INV-2026-00059,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-04-01,2026-05-01,Office cleaning Copenhagen,15212.22,3803.05,19015.27,DKK,PO-4500101252,Paid
+INV-2026-00060,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-04-05,2026-05-05,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500101774,Paid
+INV-2026-00061,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-05,2026-05-05,Lenders' technical adviser,37550.00,0.00,37550.00,EUR,PO-4500103684,Paid
+INV-2026-00062,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-04-07,2026-05-07,Pre-construction design services,45672.77,9134.55,54807.32,GBP,PO-4500105075,Paid
+INV-2026-00063,Halden Turbine Systems A/S,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-07,2026-05-07,TSA milestone payment,29867045.28,0.00,29867045.28,EUR,PO-4500107899,Paid
+INV-2026-00064,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-07,2026-05-07,Quay lease and port dues,167798.65,33559.73,201358.38,GBP,PO-4500109429,Paid
+INV-2026-00065,Northlight IT Services,Weyland Energy GmbH,1400,,2026-04-08,2026-05-08,Managed IT services,40756.39,7743.71,48500.10,EUR,PO-4500101088,Paid
+INV-2026-00066,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-04-09,2026-05-09,Accommodation project team,6860.05,1372.01,8232.06,GBP,PO-4500105378,Paid
+INV-2026-00067,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-04-10,2026-05-10,Accommodation project team,4908.94,981.79,5890.73,GBP,PO-4500102771,Paid
+INV-2026-00068,Keller & Rowe Wirtschaftsprüfung,Weyland Energy GmbH,1100,,2026-04-18,2026-05-18,Audit fees,69763.48,13255.06,83018.54,EUR,PO-4500103827,Paid
+INV-2026-00069,Northlight IT Services,Weyland Energy GmbH,1400,,2026-04-19,2026-05-19,Managed IT services,19109.24,3630.76,22740.00,EUR,PO-4500101823,Paid
+INV-2026-00070,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-04-20,2026-05-20,Accommodation project team,2426.93,485.39,2912.32,GBP,PO-4500105806,Paid
+INV-2026-00071,Halden Turbine Systems A/S,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-20,2026-05-20,TSA milestone payment,23126535.13,0.00,23126535.13,EUR,PO-4500103947,Paid
+INV-2026-00072,Halden Turbine Systems A/S,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-21,2026-05-21,TSA milestone payment,14320471.45,0.00,14320471.45,EUR,PO-4500104620,Paid
+INV-2026-00073,Northlight IT Services,Weyland Energy GmbH,1400,,2026-04-22,2026-05-22,Managed IT services,41787.77,7939.68,49727.45,EUR,PO-4500109684,Paid
+INV-2026-00074,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-04-22,2026-05-22,Accommodation project team,6133.38,1226.68,7360.06,GBP,PO-4500107516,Paid
+INV-2026-00075,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-04-23,2026-05-23,Lenders' technical adviser,43641.35,0.00,43641.35,EUR,PO-4500102595,Paid
+INV-2026-00076,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-04-26,2026-05-26,Accommodation project team,9051.71,1810.34,10862.05,GBP,PO-4500105232,Paid
+INV-2026-00077,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-05-01,2026-05-31,O&M service fee,108114.64,21622.93,129737.57,GBP,PO-4500105991,Paid
+INV-2026-00078,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-05-01,2026-05-31,North Sea Energy Summit booth B4.210,26402.26,5016.43,31418.69,EUR,PO-4500107642,Paid
+INV-2026-00079,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-02,2026-06-01,Seabird and marine mammal surveys,30810.74,6162.15,36972.89,GBP,PO-4500106488,Paid
+INV-2026-00080,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-05-03,2026-06-02,Pre-construction design services,47631.91,9526.38,57158.29,GBP,PO-4500105227,Paid
+INV-2026-00081,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-04,2026-06-03,Quay lease and port dues,186263.96,37252.79,223516.75,GBP,PO-4500104752,Paid
+INV-2026-00082,Halden Turbine Systems A/S,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-05,2026-06-04,TSA milestone payment,18771162.43,0.00,18771162.43,EUR,PO-4500102843,Paid
+INV-2026-00083,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-08,2026-06-07,Cable supply milestone,8603345.59,0.00,8603345.59,EUR,PO-4500105354,Paid
+INV-2026-00084,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-05-13,2026-06-12,Pre-construction design services,23874.79,4774.96,28649.75,GBP,PO-4500108226,Paid
+INV-2026-00085,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-15,2026-06-14,Seabird and marine mammal surveys,29299.92,5859.98,35159.90,GBP,PO-4500105921,Paid
+INV-2026-00086,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-05-18,2026-06-17,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500108647,Paid
+INV-2026-00087,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-05-19,2026-06-18,O&M service fee,46594.30,9318.86,55913.16,GBP,PO-4500107445,Paid
+INV-2026-00088,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-20,2026-06-19,Lenders' technical adviser,91942.25,0.00,91942.25,EUR,PO-4500105983,Paid
+INV-2026-00089,Northlight IT Services,Weyland Energy GmbH,1400,,2026-05-21,2026-06-20,Managed IT services,68951.69,13100.82,82052.51,EUR,PO-4500103909,Paid
+INV-2026-00090,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-21,2026-06-20,Lenders' technical adviser,64163.78,0.00,64163.78,EUR,PO-4500101435,Paid
+INV-2026-00091,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-05-21,2026-06-20,Accommodation project team,6564.01,1312.80,7876.81,GBP,PO-4500102387,Paid
+INV-2026-00092,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-25,2026-06-24,Quay lease and port dues,114202.97,22840.59,137043.56,GBP,PO-4500107435,Paid
+INV-2026-00093,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-05-26,2026-06-25,Accommodation project team,9055.11,1811.02,10866.13,GBP,PO-4500108171,Paid
+INV-2026-00094,NordGrid Transmission,Harrow Bay Offshore Wind Ltd,4000,HB,2026-05-27,2026-06-26,Grid connection works,567173.76,113434.75,680608.51,GBP,PO-4500108382,Paid
+INV-2026-00095,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-05-28,2026-06-27,Accommodation project team,7180.33,1436.07,8616.40,GBP,PO-4500108950,Paid
+INV-2026-00096,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-05-30,2026-06-29,North Sea Energy Summit booth B4.210,45167.88,8581.90,53749.78,EUR,PO-4500108337,Paid
+INV-2026-00097,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-05-30,2026-06-29,O&M service fee,55120.88,11024.18,66145.06,GBP,PO-4500103015,Paid
+INV-2026-00098,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-05-31,2026-06-30,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500109358,Paid
+INV-2026-00099,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-04,2026-07-04,Cable supply milestone,9731961.59,0.00,9731961.59,EUR,PO-4500101352,Paid
+INV-2026-00100,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-06-05,2026-07-05,Pre-construction design services,17538.19,3507.64,21045.83,GBP,PO-4500105032,Paid
+INV-2026-00101,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-06-09,2026-07-09,Pre-construction design services,47300.50,9460.10,56760.60,GBP,PO-4500108299,Paid
+INV-2026-00102,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-06-10,2026-07-10,Office cleaning Copenhagen,18038.11,4509.53,22547.64,DKK,PO-4500103492,Paid
+INV-2026-00103,Northlight IT Services,Weyland Energy GmbH,1400,,2026-06-10,2026-07-10,Managed IT services,61348.60,11656.23,73004.83,EUR,PO-4500106582,Paid
+INV-2026-00104,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-06-13,2026-07-13,Accommodation project team,1886.08,377.22,2263.30,GBP,PO-4500102587,Paid
+INV-2026-00105,Northlight IT Services,Weyland Energy GmbH,1400,,2026-06-16,2026-07-16,Managed IT services,69917.22,13284.27,83201.49,EUR,PO-4500102674,Paid
+INV-2026-00106,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-06-17,2026-07-17,Accommodation project team,3765.79,753.16,4518.95,GBP,PO-4500107716,Paid
+INV-2026-00107,Fenwick Estates Ltd,Weyland Energy UK Ltd,4200,FW,2026-06-17,2026-07-17,Land option fee,25000.00,5000.00,30000.00,GBP,PO-4500106897,Paid
+INV-2026-00108,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-06-22,2026-07-22,Office cleaning Copenhagen,13117.70,3279.43,16397.13,DKK,PO-4500107844,Paid
+INV-2026-00109,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-23,2026-07-23,Quay lease and port dues,123925.33,24785.07,148710.40,GBP,PO-4500104245,Paid
+INV-2026-00110,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-24,2026-07-24,Quay lease and port dues,184712.64,36942.53,221655.17,GBP,PO-4500103252,Paid
+INV-2026-00111,NordGrid Transmission,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-25,2026-07-25,Grid connection works,499014.59,99802.92,598817.51,GBP,PO-4500105517,Paid
+INV-2026-00112,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-26,2026-07-26,MV Sea Atlas charter hire,2479710.83,0.00,2479710.83,EUR,PO-4500106733,Paid
+INV-2026-00113,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-27,2026-07-27,Lenders' technical adviser,69504.39,0.00,69504.39,EUR,PO-4500101795,Paid
+INV-2026-00114,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-27,2026-07-27,Cable supply milestone,7124785.21,0.00,7124785.21,EUR,PO-4500106344,Paid
+INV-2026-00115,Northlight IT Services,Weyland Energy GmbH,1400,,2026-06-27,2026-07-27,Managed IT services,22810.73,4334.04,27144.77,EUR,PO-4500104674,Paid
+INV-2026-00116,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-06-28,2026-07-28,Seabird and marine mammal surveys,59672.39,11934.48,71606.87,GBP,PO-4500107048,Paid
+INV-2026-00117,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-06-30,2026-07-30,North Sea Energy Summit booth B4.210,47451.32,9015.75,56467.07,EUR,PO-4500106852,Paid
+INV-2026-00118,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-01,2026-07-31,Cable supply milestone,4829860.41,0.00,4829860.41,EUR,PO-4500105900,Paid
+INV-2026-00119,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-07-02,2026-08-01,O&M service fee,53197.89,10639.58,63837.47,GBP,PO-4500101920,Paid
+INV-2026-00120,Northlight IT Services,Weyland Energy GmbH,1400,,2026-07-03,2026-08-02,Managed IT services,53057.92,10081.00,63138.92,EUR,PO-4500102756,Paid
+INV-2026-00121,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-05,2026-08-04,Seabird and marine mammal surveys,59007.07,11801.41,70808.48,GBP,PO-4500104288,Paid
+INV-2026-00122,Rhenus Steelworks Foundations GmbH,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-05,2026-08-04,Monopile delivery batch,4945863.80,0.00,4945863.80,EUR,PO-4500108080,Paid
+INV-2026-00123,Halden Turbine Systems A/S,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-06,2026-08-05,TSA milestone payment,6181674.93,0.00,6181674.93,EUR,PO-4500106660,Paid
+INV-2026-00124,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-08,2026-08-07,Quay lease and port dues,191248.62,38249.72,229498.34,GBP,PO-4500101156,Paid
+INV-2026-00125,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-07-08,2026-08-07,Accommodation project team,4603.61,920.72,5524.33,GBP,PO-4500103032,Paid
+INV-2026-00126,Keller & Rowe Wirtschaftsprüfung,Weyland Energy GmbH,1100,,2026-07-10,2026-08-09,Audit fees,84638.74,16081.36,100720.10,EUR,PO-4500109407,Paid
+INV-2026-00127,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-10,2026-08-09,Quay lease and port dues,91724.66,18344.93,110069.59,GBP,PO-4500107963,Paid
+INV-2026-00128,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-14,2026-08-13,Lenders' technical adviser,37835.77,0.00,37835.77,EUR,PO-4500106948,Paid
+INV-2026-00129,Northlight IT Services,Weyland Energy GmbH,1400,,2026-07-15,2026-08-14,Managed IT services,53560.23,10176.44,63736.67,EUR,PO-4500102597,Paid
+INV-2026-00130,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-07-16,2026-08-15,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500105720,Paid
+INV-2026-00131,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-07-16,2026-08-15,O&M service fee,65371.96,13074.39,78446.35,GBP,PO-4500108057,Paid
+INV-2026-00132,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-17,2026-08-16,Cable supply milestone,3030930.24,0.00,3030930.24,EUR,PO-4500108218,Paid
+INV-2026-00133,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-07-19,2026-08-18,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500106686,Paid
+INV-2026-00134,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-21,2026-08-20,MV Sea Atlas charter hire,2378044.82,0.00,2378044.82,EUR,PO-4500102039,Paid
+INV-2026-00135,NordGrid Transmission,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-21,2026-08-20,Grid connection works,416074.75,83214.95,499289.70,GBP,PO-4500108049,Paid
+INV-2026-00136,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-07-22,2026-08-21,Accommodation project team,2642.08,528.42,3170.50,GBP,PO-4500106357,Paid
+INV-2026-00137,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-22,2026-08-21,MV Sea Atlas charter hire,4214533.58,0.00,4214533.58,EUR,PO-4500104344,Paid
+INV-2026-00138,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-07-23,2026-08-22,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500102219,Paid
+INV-2026-00139,Rhenus Steelworks Foundations GmbH,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-24,2026-08-23,Monopile delivery batch,6377712.04,0.00,6377712.04,EUR,PO-4500106829,Paid
+INV-2026-00140,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-24,2026-08-23,Lenders' technical adviser,76058.86,0.00,76058.86,EUR,PO-4500106085,Paid
+INV-2026-00141,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-07-29,2026-08-28,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500106851,Paid
+INV-2026-00142,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-07-30,2026-08-29,MV Sea Atlas charter hire,2021582.89,0.00,2021582.89,EUR,PO-4500101359,Paid
+INV-2026-00143,SunForge EPC Ltd,Weyland Energy UK Ltd,4100,MB,2026-08-07,2026-09-06,Pre-construction design services,46413.69,9282.74,55696.43,GBP,PO-4500108304,Paid
+INV-2026-00144,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-08-08,2026-09-07,O&M service fee,100937.69,20187.54,121125.23,GBP,PO-4500106307,Paid
+INV-2026-00145,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-08-09,2026-09-08,North Sea Energy Summit booth B4.210,35218.43,6691.50,41909.93,EUR,PO-4500108034,Paid
+INV-2026-00146,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-08-09,2026-09-08,Accommodation project team,7823.00,1564.60,9387.60,GBP,PO-4500109809,Paid
+INV-2026-00147,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-09,2026-09-08,Seabird and marine mammal surveys,76405.93,15281.19,91687.12,GBP,PO-4500108552,Paid
+INV-2026-00148,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-11,2026-09-10,Quay lease and port dues,95023.79,19004.76,114028.55,GBP,PO-4500109687,Paid
+INV-2026-00149,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-08-13,2026-09-12,Office cleaning Copenhagen,16995.77,4248.94,21244.71,DKK,PO-4500105163,Paid
+INV-2026-00150,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-08-16,2026-09-15,O&M service fee,53294.79,10658.96,63953.75,GBP,PO-4500101104,Paid
+INV-2026-00151,Northlight IT Services,Weyland Energy GmbH,1400,,2026-08-16,2026-09-15,Managed IT services,18864.85,3584.32,22449.17,EUR,PO-4500101314,Paid
+INV-2026-00152,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-08-16,2026-09-15,Accommodation project team,2063.53,412.71,2476.24,GBP,PO-4500107459,Paid
+INV-2026-00153,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-08-17,2026-09-16,O&M service fee,47762.35,9552.47,57314.82,GBP,PO-4500102217,Paid
+INV-2026-00154,Hanse Exhibition Services GmbH,Weyland Energy GmbH,1500,,2026-08-17,2026-09-16,North Sea Energy Summit booth B4.210,25476.53,4840.54,30317.07,EUR,PO-4500102512,Paid
+INV-2026-00155,Atlas Marine Contractors,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-17,2026-09-16,MV Sea Atlas charter hire,4207098.09,0.00,4207098.09,EUR,PO-4500108106,Paid
+INV-2026-00156,Severn Subsea Cables Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-19,2026-09-18,Cable supply milestone,5040412.22,0.00,5040412.22,EUR,PO-4500105074,On hold – HB-RISK-017 milestone dispute
+INV-2026-00157,Northlight IT Services,Weyland Energy GmbH,1400,,2026-08-19,2026-09-18,Managed IT services,43230.21,8213.74,51443.95,EUR,PO-4500107995,Paid
+INV-2026-00158,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-21,2026-09-20,Seabird and marine mammal surveys,43647.70,8729.54,52377.24,GBP,PO-4500101215,Paid
+INV-2026-00159,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-08-23,2026-09-22,Office cleaning Copenhagen,20877.60,5219.40,26097.00,DKK,PO-4500108652,Paid
+INV-2026-00160,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-24,2026-09-23,Seabird and marine mammal surveys,45243.63,9048.73,54292.36,GBP,PO-4500102324,Paid
+INV-2026-00161,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-08-25,2026-09-24,O&M service fee,40198.17,8039.63,48237.80,GBP,PO-4500102140,Paid
+INV-2026-00162,Strandberg Technical Advisory,Harrow Bay Offshore Wind Ltd,4000,HB,2026-08-26,2026-09-25,Lenders' technical adviser,49814.48,0.00,49814.48,EUR,PO-4500107728,Paid
+INV-2026-00163,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-08-28,2026-09-27,Office cleaning Copenhagen,16329.42,4082.36,20411.78,DKK,PO-4500109140,In approval
+INV-2026-00164,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-09-03,2026-10-03,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500108928,Approved
+INV-2026-00165,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-09-04,2026-10-04,Accommodation project team,5880.69,1176.14,7056.83,GBP,PO-4500107021,Paid
+INV-2026-00166,Fenwick Estates Ltd,Weyland Energy UK Ltd,4200,FW,2026-09-04,2026-10-04,Land option fee,25000.00,5000.00,30000.00,GBP,PO-4500109929,Paid
+INV-2026-00167,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-09-04,2026-10-04,Office cleaning Copenhagen,21673.35,5418.34,27091.69,DKK,PO-4500103620,Paid
+INV-2026-00168,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-09-06,2026-10-06,Office cleaning Copenhagen,20196.36,5049.09,25245.45,DKK,PO-4500104592,In approval
+INV-2026-00169,Sandtorkai Office Properties,Weyland Energy GmbH,1000,,2026-09-08,2026-10-08,Office rent Hamburg HQ,61000.00,11590.00,72590.00,EUR,PO-4500102017,Approved
+INV-2026-00170,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-09-09,2026-10-09,Seabird and marine mammal surveys,41671.45,8334.29,50005.74,GBP,PO-4500108675,Approved
+INV-2026-00171,Marlow Ecology Ltd,Harrow Bay Offshore Wind Ltd,4000,HB,2026-09-14,2026-10-14,Seabird and marine mammal surveys,36772.48,7354.50,44126.98,GBP,PO-4500103077,In approval
+INV-2026-00172,Highline Wind Services,Kestrel Ridge Wind Ltd,2100,KR,2026-09-17,2026-10-17,O&M service fee,123451.27,24690.25,148141.52,GBP,PO-4500109653,In approval
+INV-2026-00173,Hotel Harbour View Inn,Weyland Energy UK Ltd,4000,HB,2026-09-19,2026-10-19,Accommodation project team,8861.01,1772.20,10633.21,GBP,PO-4500101238,Approved
+INV-2026-00174,Port of Eastholm Authority,Harrow Bay Offshore Wind Ltd,4000,HB,2026-09-20,2026-10-20,Quay lease and port dues,86622.20,17324.44,103946.64,GBP,PO-4500101743,Approved
+INV-2026-00175,Nyhavn Facility Services ApS,Weyland Energy Danmark ApS,1000,,2026-09-21,2026-10-21,Office cleaning Copenhagen,14469.31,3617.33,18086.64,DKK,PO-4500107301,Paid
+INV-2026-00176,Northlight IT Services,Weyland Energy GmbH,1400,,2026-09-25,2026-10-25,Managed IT services,51229.01,9733.51,60962.52,EUR,PO-4500109496,Approved

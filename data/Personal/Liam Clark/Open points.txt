@@ -1,0 +1,8 @@
+Liam's list – May 2026
+
+- [ ] Share draft with Jonas – phishing simulation results
+- [x] Review comments from Sindre – opencloud migration tasks
+- [ ] Ask for input from Hiroshi – iso 27001 control evidence
+- [ ] Share draft with Jan – opencloud migration tasks
+- [ ] Share draft with Ingrid – backup restore test
+- [ ] Book travel

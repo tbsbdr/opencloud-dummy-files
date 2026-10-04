@@ -1,0 +1,12 @@
+HOW TO BOOK TRAVEL AT WEYLAND (short version)
+
+1. Check if the meeting can be online. If not:
+2. Open the Hansa Business Travel online tool (SSO with your Weyland account).
+3. Choose train first for Hamburg <-> Copenhagen (approx. 4h40) and within the UK.
+4. Edinburgh trips from Hamburg: direct flight HAM-EDI is fine, book hand luggage tariff.
+5. Site visits (Kestrel Ridge, Port of Eastholm, offshore): check the site visit rules in the HSE folder and
+   register with the site 48 h in advance. Offshore trips need BOSIET/GWO and the offshore medical.
+6. Hotels: framework hotels are pre-loaded in the tool (Harbour Lodge Eastholm, Galashiels Station Hotel).
+7. Last minute or problems: Hansa 24/7 line +49 40 3008 4420.
+
+Expense claims: within 60 days, receipts as photo. Questions -> finance@weyland-energy.example

@@ -1,0 +1,143 @@
+Lead ID,Date,Name,Company,Role,Country,Interest,Rating,Captured by,Follow-up owner,Email,Consent,Notes
+NSES26-001,2026-09-23,Katrin Albers,Arcturus Steel AG,Head of Energy Procurement,DE,Offtake / PPA,A,Nina Petrova,Henrik Larsen,katrin.albers@arcturus-steel.example,Yes,Second PPA tranche (Fenwick storage-backed?) – follow up with Henrik and Isabel
+NSES26-002,2026-09-22,Carla Olsen,Halden Turbine Systems A/S,Sales Manager,DK,Supplier,C,Henrik Larsen,Laura Kessler,carla.olsen@halden.example,Yes,Cable accessories
+NSES26-003,2026-09-23,Jakob Brown,Nordhafen Chemie AG,Head of Energy Procurement,DE,Offtake / PPA,B,Leah Goldberg,Henrik Larsen,jakob.brown@nordhafen.example,Yes,Interested in hydrogen offtake
+NSES26-004,2026-09-24,Dirk Kristensen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,C,Noah Fischer,Henrik Larsen,dirk.kristensen@baltic.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-005,2026-09-23,Ulf Wright,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,C,Noah Fischer,Henrik Larsen,ulf.wright@elbe.example,Yes,Hydrogen cluster Westküste
+NSES26-006,2026-09-22,Chloe Jensen,Tyne Fabrication Ltd,Business Development,UK,Supplier,C,Noah Fischer,Laura Kessler,chloe.jensen@tyne.example,Yes,Wants on vendor list for O&M
+NSES26-007,2026-09-23,Freya Brown,Seaway Crew Transfer Ltd,Sales Manager,UK,Supplier,B,Nina Petrova,Laura Kessler,freya.brown@seaway.example,Yes,Wants on vendor list for O&M
+NSES26-008,2026-09-24,Maja Larsen,Hanseatic Infrastructure Bank,Director Infrastructure,DE,Finance,B,Isabel Ferreira,Jonas Richter,maja.larsen@hanseatic.example,Yes,Interested in Millbrook refinancing
+NSES26-009,2026-09-22,Ines Walsh,Nordic Pension Infrastructure,Investment Manager,DK,Finance,B,Isabel Ferreira,Jonas Richter,ines.walsh@nordic.example,Yes,Wants to meet Jonas Richter
+NSES26-010,2026-09-23,Dirk Schulz,Kieler Kabelwerk GmbH,Business Development,DE,Supplier,C,Noah Fischer,Laura Kessler,dirk.schulz@kieler.example,Yes,Send procurement portal link
+NSES26-011,2026-09-23,Gareth Olsen,Aberdeen Marine Services,Sales Manager,UK,Supplier,B,Noah Fischer,Laura Kessler,gareth.olsen@aberdeen.example,Yes,Send procurement portal link
+NSES26-012,2026-09-23,Gareth Andersen,Westküste Wasserstoff GmbH,Project Manager,DE,Partner,C,Kwame Mensah,Henrik Larsen,gareth.andersen@westkueste.example,Yes,Grid connection talk
+NSES26-013,2026-09-23,Jakob Olsen,University of Hamburg (TUHH),Professor,DE,Careers / academia,C,Isabel Ferreira,Nina Petrova,jakob.olsen@university.example,Yes,Guest lecture request
+NSES26-014,2026-09-22,Greta Murray,DTU Wind,PhD candidate,DK,Careers / academia,B,Leah Goldberg,Nina Petrova,greta.murray@dtu.example,Yes,Thesis on bubble curtains
+NSES26-015,2026-09-23,Rosa Krause,Freelance / job seeker,HSE advisor,–,Careers,A,Henrik Larsen,Nina Petrova,rosa.krause@mail.example,Yes,Applying for HV engineer role
+NSES26-016,2026-09-24,David Berg,NordGrid Transmission,Project Manager,UK,Partner,B,Mei Tanaka,Henrik Larsen,david.berg@nordgrid.example,Yes,Grid connection talk
+NSES26-017,2026-09-24,Maja Schulz,Port of Esbjerg Services,Head of Strategy,DK,Partner,C,Henrik Larsen,Henrik Larsen,maja.schulz@port.example,Yes,Port capacity 2027
+NSES26-018,2026-09-22,Lukas Schulz,Clean Tech Ledger,Journalist,UK,Media,C,Henrik Larsen,Noah Fischer,lukas.schulz@clean.example,Yes,Interview request Amara
+NSES26-019,2026-09-22,Ahmed Hansen,Glasgow Green Power Co-op,Board member,UK,Community / policy,B,Nina Petrova,Tom Berger,ahmed.hansen@glasgow.example,Yes,Invite to Hamburg energy roundtable
+NSES26-020,2026-09-22,Tara Jensen,Hamburg Ministry for Environment,Policy officer,DE,Community / policy,C,Isabel Ferreira,Tom Berger,tara.jensen@hamburg.example,Yes,Invite to Hamburg energy roundtable
+NSES26-021,2026-09-23,Hanna Walsh,Freelance / job seeker,Project engineer,–,Careers,B,Isabel Ferreira,Nina Petrova,hanna.walsh@mail.example,Yes,Offshore experience 6 y
+NSES26-022,2026-09-24,Sven Hughes,Westküste Wasserstoff GmbH,Project Manager,DE,Partner,C,Felix Brandt,Henrik Larsen,sven.hughes@westkueste.example,Yes,Port capacity 2027
+NSES26-023,2026-09-23,Zoe Wright,Hamburg Ministry for Environment,Policy officer,DE,Community / policy,B,Isabel Ferreira,Tom Berger,zoe.wright@hamburg.example,Yes,Invite to Hamburg energy roundtable
+NSES26-024,2026-09-23,Karin Hughes,Hanseatic Infrastructure Bank,Investment Manager,DE,Finance,B,Felix Brandt,Jonas Richter,karin.hughes@hanseatic.example,Yes,Wants to meet Jonas Richter
+NSES26-025,2026-09-22,Vera Olsen,Aberdeen Marine Services,Sales Manager,UK,Supplier,C,Isabel Ferreira,Laura Kessler,vera.olsen@aberdeen.example,Yes,Send procurement portal link
+NSES26-026,2026-09-22,Sven Larsen,Clean Tech Ledger,Journalist,UK,Media,B,Nina Petrova,Noah Fischer,sven.larsen@clean.example,Yes,Interview request Amara
+NSES26-027,2026-09-23,Tara Becker,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,C,Isabel Ferreira,Henrik Larsen,tara.becker@arcturus.example,Yes,Meeting booked for October
+NSES26-028,2026-09-24,Ines Nielsen,Freelance / job seeker,Project engineer,–,Careers,B,Felix Brandt,Nina Petrova,ines.nielsen@mail.example,Yes,CV sent
+NSES26-029,2026-09-24,Emil Wolf,Elbe Logistics Port GmbH,Project Manager,DE,Partner,C,Isabel Ferreira,Henrik Larsen,emil.wolf@elbe.example,Yes,Port capacity 2027
+NSES26-030,2026-09-23,David Taylor,Seaway Crew Transfer Ltd,Business Development,UK,Supplier,B,Henrik Larsen,Laura Kessler,david.taylor@seaway.example,Yes,Wants on vendor list for O&M
+NSES26-031,2026-09-23,Tara Hansen,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,B,Kwame Mensah,Henrik Larsen,tara.hansen@arcturus.example,Yes,Meeting booked for October
+NSES26-032,2026-09-24,Finn Nielsen,Tyne Fabrication Ltd,Business Development,UK,Supplier,B,Felix Brandt,Laura Kessler,finn.nielsen@tyne.example,Yes,Wants on vendor list for O&M
+NSES26-033,2026-09-22,Carla Hansen,Aberdeen Marine Services,Key Account Manager,UK,Supplier,A,Isabel Ferreira,Laura Kessler,carla.hansen@aberdeen.example,Yes,Cable accessories
+NSES26-034,2026-09-23,Emil Kristensen,Baltic Data Centres ApS,Head of Energy Procurement,DK,Offtake / PPA,A,Henrik Larsen,Henrik Larsen,emil.kristensen@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-035,2026-09-24,David Murray,Freelance / job seeker,Electrical engineer,–,Careers,C,Nina Petrova,Nina Petrova,david.murray@mail.example,Yes,Applying for HV engineer role
+NSES26-036,2026-09-22,Nils Walsh,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,B,Mei Tanaka,Henrik Larsen,nils.walsh@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-037,2026-09-22,Lukas Brown,Baltic Data Centres ApS,Head of Energy Procurement,DK,Offtake / PPA,B,Leah Goldberg,Henrik Larsen,lukas.brown@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-038,2026-09-23,Sven Nielsen,Halden Turbine Systems A/S,Business Development,DK,Supplier,C,Henrik Larsen,Laura Kessler,sven.nielsen@halden.example,Yes,Cable accessories
+NSES26-039,2026-09-22,Dirk Neumann,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,C,Noah Fischer,Henrik Larsen,dirk.neumann@nordhafen.example,Yes,Meeting booked for October
+NSES26-040,2026-09-23,Rosa Petersen,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,C,Henrik Larsen,Henrik Larsen,rosa.petersen@elbe.example,Yes,Hydrogen cluster Westküste
+NSES26-041,2026-09-24,Ahmed Krause,Port of Esbjerg Services,Head of Strategy,DK,Partner,B,Noah Fischer,Henrik Larsen,ahmed.krause@port.example,Yes,Hydrogen cluster Westküste
+NSES26-042,2026-09-24,Rosa Andersen,Baltic Data Centres ApS,Sustainability Director,DK,Offtake / PPA,A,Nina Petrova,Henrik Larsen,rosa.andersen@baltic.example,Yes,Asked for Arcturus case study
+NSES26-043,2026-09-24,Emil Schulz,Aberdeen Marine Services,Business Development,UK,Supplier,C,Isabel Ferreira,Laura Kessler,emil.schulz@aberdeen.example,Yes,Crew transfer vessels for Harrow Bay O&M
+NSES26-044,2026-09-24,Sven Kristensen,Freelance / job seeker,Project engineer,–,Careers,B,Felix Brandt,Nina Petrova,sven.kristensen@mail.example,Yes,Offshore experience 6 y
+NSES26-045,2026-09-23,Anna Schulz,Baltic Data Centres ApS,Head of Energy Procurement,DK,Offtake / PPA,A,Henrik Larsen,Henrik Larsen,anna.schulz@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-046,2026-09-23,Emil Hughes,Baltic Data Centres ApS,Head of Energy Procurement,DK,Offtake / PPA,B,Nina Petrova,Henrik Larsen,emil.hughes@baltic.example,Yes,Meeting booked for October
+NSES26-047,2026-09-22,Maja Kristensen,Seaway Crew Transfer Ltd,Business Development,UK,Supplier,B,Noah Fischer,Laura Kessler,maja.kristensen@seaway.example,Yes,Cable accessories
+NSES26-048,2026-09-23,Nils Berg,Clean Tech Ledger,Journalist,UK,Media,B,Isabel Ferreira,Noah Fischer,nils.berg@clean.example,Yes,Interview request Amara
+NSES26-049,2026-09-22,Karin Murray,Freelance / job seeker,HSE advisor,–,Careers,B,Noah Fischer,Nina Petrova,karin.murray@mail.example,Yes,CV sent
+NSES26-050,2026-09-23,Will Hartmann,DTU Wind,PhD candidate,DK,Careers / academia,A,Henrik Larsen,Nina Petrova,will.hartmann@dtu.example,Yes,Guest lecture request
+NSES26-051,2026-09-22,Sven Hartmann,Freelance / job seeker,HSE advisor,–,Careers,A,Mei Tanaka,Nina Petrova,sven.hartmann@mail.example,Yes,Applying for HV engineer role
+NSES26-052,2026-09-23,Ahmed Becker,Kieler Kabelwerk GmbH,Business Development,DE,Supplier,C,Kwame Mensah,Laura Kessler,ahmed.becker@kieler.example,Yes,Send procurement portal link
+NSES26-053,2026-09-24,Chloe Larsen,Tyne Fabrication Ltd,Sales Manager,UK,Supplier,B,Felix Brandt,Laura Kessler,chloe.larsen@tyne.example,Yes,Cable accessories
+NSES26-054,2026-09-23,Björn Brown,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,A,Leah Goldberg,Henrik Larsen,bjoern.brown@arcturus.example,Yes,Asked for Arcturus case study
+NSES26-055,2026-09-24,Emil Andersen,Freelance / job seeker,Electrical engineer,–,Careers,A,Mei Tanaka,Nina Petrova,emil.andersen@mail.example,Yes,CV sent
+NSES26-056,2026-09-24,Ines Wright,University of Hamburg (TUHH),Professor,DE,Careers / academia,B,Noah Fischer,Nina Petrova,ines.wright@university.example,Yes,Thesis on bubble curtains
+NSES26-057,2026-09-23,Karin Schmidt,Freelance / job seeker,Project engineer,–,Careers,B,Nina Petrova,Nina Petrova,karin.schmidt@mail.example,Yes,Applying for HV engineer role
+NSES26-058,2026-09-22,Vera Wolf,Nordic Pension Infrastructure,Director Infrastructure,DK,Finance,C,Mei Tanaka,Jonas Richter,vera.wolf@nordic.example,Yes,Wants to meet Jonas Richter
+NSES26-059,2026-09-23,Chloe Schmidt,Westküste Wasserstoff GmbH,Project Manager,DE,Partner,C,Leah Goldberg,Henrik Larsen,chloe.schmidt@westkueste.example,Yes,Port capacity 2027
+NSES26-060,2026-09-23,Olga Petersen,Clean Tech Ledger,Journalist,UK,Media,C,Isabel Ferreira,Noah Fischer,olga.petersen@clean.example,Yes,Interview request Amara
+NSES26-061,2026-09-23,Freya Andersen,Westküste Wasserstoff GmbH,Project Manager,DE,Partner,C,Isabel Ferreira,Henrik Larsen,freya.andersen@westkueste.example,Yes,Port capacity 2027
+NSES26-062,2026-09-23,Carla Hughes,Hamburg Ministry for Environment,Board member,DE,Community / policy,C,Noah Fischer,Tom Berger,carla.hughes@hamburg.example,Yes,Invite to Hamburg energy roundtable
+NSES26-063,2026-09-23,Maja Evans,Westküste Wasserstoff GmbH,Head of Strategy,DE,Partner,A,Noah Fischer,Henrik Larsen,maja.evans@westkueste.example,Yes,Port capacity 2027
+NSES26-064,2026-09-22,Hugo Wright,Aberdeen Marine Services,Key Account Manager,UK,Supplier,A,Noah Fischer,Laura Kessler,hugo.wright@aberdeen.example,Yes,Cable accessories
+NSES26-065,2026-09-23,Dirk Brown,Tyne Fabrication Ltd,Key Account Manager,UK,Supplier,B,Kwame Mensah,Laura Kessler,dirk.brown@tyne.example,Yes,Wants on vendor list for O&M
+NSES26-066,2026-09-23,Ulf Wright,Westküste Wasserstoff GmbH,Head of Strategy,DE,Partner,B,Mei Tanaka,Henrik Larsen,ulf.wright@westkueste.example,Yes,Hydrogen cluster Westküste
+NSES26-067,2026-09-22,Jakob Andersen,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,C,Noah Fischer,Henrik Larsen,jakob.andersen@elbe.example,Yes,Port capacity 2027
+NSES26-068,2026-09-24,Maja Jensen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,C,Leah Goldberg,Henrik Larsen,maja.jensen@baltic.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-069,2026-09-22,Sven Petersen,Arcturus Steel AG,Head of Energy Procurement,DE,Offtake / PPA,A,Leah Goldberg,Henrik Larsen,sven.petersen@arcturus.example,Yes,Meeting booked for October
+NSES26-070,2026-09-22,Freya Wright,Baltic Data Centres ApS,Head of Energy Procurement,DK,Offtake / PPA,A,Kwame Mensah,Henrik Larsen,freya.wright@baltic.example,Yes,Meeting booked for October
+NSES26-071,2026-09-22,Hanna Petersen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,B,Isabel Ferreira,Henrik Larsen,hanna.petersen@baltic.example,Yes,Asked for Arcturus case study
+NSES26-072,2026-09-23,Vera Evans,Seaway Crew Transfer Ltd,Key Account Manager,UK,Supplier,C,Mei Tanaka,Laura Kessler,vera.evans@seaway.example,Yes,Send procurement portal link
+NSES26-073,2026-09-22,Gareth Taylor,University of Hamburg (TUHH),PhD candidate,DE,Careers / academia,C,Henrik Larsen,Nina Petrova,gareth.taylor@university.example,Yes,Thesis on bubble curtains
+NSES26-074,2026-09-23,Rosa Nielsen,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,A,Henrik Larsen,Henrik Larsen,rosa.nielsen@nordhafen.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-075,2026-09-22,Zoe Hartmann,Westküste Wasserstoff GmbH,Head of Strategy,DE,Partner,B,Nina Petrova,Henrik Larsen,zoe.hartmann@westkueste.example,Yes,Grid connection talk
+NSES26-076,2026-09-24,Greta Becker,Clean Tech Ledger,Journalist,UK,Media,C,Felix Brandt,Noah Fischer,greta.becker@clean.example,Yes,Interview request Amara
+NSES26-077,2026-09-22,Greta Hughes,Clean Tech Ledger,Journalist,UK,Media,B,Nina Petrova,Noah Fischer,greta.hughes@clean.example,Yes,Interview request Amara
+NSES26-078,2026-09-22,Rosa Krause,University of Hamburg (TUHH),PhD candidate,DE,Careers / academia,B,Noah Fischer,Nina Petrova,rosa.krause@university.example,Yes,Internship 2027
+NSES26-079,2026-09-23,Ulf Larsen,Freelance / job seeker,HSE advisor,–,Careers,A,Noah Fischer,Nina Petrova,ulf.larsen@mail.example,Yes,CV sent
+NSES26-080,2026-09-23,Nils Berg,Westküste Wasserstoff GmbH,Head of Strategy,DE,Partner,C,Kwame Mensah,Henrik Larsen,nils.berg@westkueste.example,Yes,Port capacity 2027
+NSES26-081,2026-09-22,Karin Andersen,Tyne Fabrication Ltd,Sales Manager,UK,Supplier,B,Noah Fischer,Laura Kessler,karin.andersen@tyne.example,Yes,Cable accessories
+NSES26-082,2026-09-22,Hanna Wright,Glasgow Green Power Co-op,Policy officer,UK,Community / policy,C,Noah Fischer,Tom Berger,hanna.wright@glasgow.example,Yes,Invite to Hamburg energy roundtable
+NSES26-083,2026-09-22,Maja Murray,Halden Turbine Systems A/S,Sales Manager,DK,Supplier,B,Leah Goldberg,Laura Kessler,maja.murray@halden.example,Yes,Cable accessories
+NSES26-084,2026-09-23,Anna Evans,Port of Esbjerg Services,Head of Strategy,DK,Partner,C,Isabel Ferreira,Henrik Larsen,anna.evans@port.example,Yes,Grid connection talk
+NSES26-085,2026-09-22,Karin Larsen,Clean Tech Ledger,Journalist,UK,Media,B,Isabel Ferreira,Noah Fischer,karin.larsen@clean.example,Yes,Interview request Amara
+NSES26-086,2026-09-22,Emil Schmidt,Seaway Crew Transfer Ltd,Sales Manager,UK,Supplier,C,Kwame Mensah,Laura Kessler,emil.schmidt@seaway.example,Yes,Cable accessories
+NSES26-087,2026-09-23,Zoe Larsen,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,C,Henrik Larsen,Henrik Larsen,zoe.larsen@nordhafen.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-088,2026-09-22,Ulf Taylor,Arcturus Steel AG,Head of Energy Procurement,DE,Offtake / PPA,C,Isabel Ferreira,Henrik Larsen,ulf.taylor@arcturus.example,Yes,Interested in hydrogen offtake
+NSES26-089,2026-09-23,Freya Olsen,DTU Wind,PhD candidate,DK,Careers / academia,B,Isabel Ferreira,Nina Petrova,freya.olsen@dtu.example,Yes,Thesis on bubble curtains
+NSES26-090,2026-09-22,Hanna Wright,Freelance / job seeker,Project engineer,–,Careers,B,Henrik Larsen,Nina Petrova,hanna.wright@mail.example,Yes,Applying for HV engineer role
+NSES26-091,2026-09-22,Will Wolf,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,A,Isabel Ferreira,Henrik Larsen,will.wolf@nordhafen.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-092,2026-09-23,Carla Schulz,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,B,Felix Brandt,Henrik Larsen,carla.schulz@elbe.example,Yes,Grid connection talk
+NSES26-093,2026-09-22,Finn Taylor,DTU Wind,Professor,DK,Careers / academia,C,Henrik Larsen,Nina Petrova,finn.taylor@dtu.example,Yes,Thesis on bubble curtains
+NSES26-094,2026-09-24,Karin Schmidt,Aberdeen Marine Services,Business Development,UK,Supplier,C,Noah Fischer,Laura Kessler,karin.schmidt@aberdeen.example,Yes,Crew transfer vessels for Harrow Bay O&M
+NSES26-095,2026-09-23,Peter Larsen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,A,Henrik Larsen,Henrik Larsen,peter.larsen@baltic.example,Yes,Asked for Arcturus case study
+NSES26-096,2026-09-23,Peter Petersen,Halden Turbine Systems A/S,Business Development,DK,Supplier,C,Henrik Larsen,Laura Kessler,peter.petersen@halden.example,Yes,Send procurement portal link
+NSES26-097,2026-09-23,Maja Neumann,Seaway Crew Transfer Ltd,Sales Manager,UK,Supplier,C,Noah Fischer,Laura Kessler,maja.neumann@seaway.example,Yes,Crew transfer vessels for Harrow Bay O&M
+NSES26-098,2026-09-24,Anna Larsen,Hanseatic Infrastructure Bank,Investment Manager,DE,Finance,B,Henrik Larsen,Jonas Richter,anna.larsen@hanseatic.example,Yes,Interested in Millbrook refinancing
+NSES26-099,2026-09-24,Ben Walsh,Freelance / job seeker,Wind technician,–,Careers,A,Noah Fischer,Nina Petrova,ben.walsh@mail.example,Yes,Offshore experience 6 y
+NSES26-100,2026-09-23,Zoe Walsh,Seaway Crew Transfer Ltd,Key Account Manager,UK,Supplier,C,Henrik Larsen,Laura Kessler,zoe.walsh@seaway.example,Yes,Wants on vendor list for O&M
+NSES26-101,2026-09-23,Eva Petersen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,B,Felix Brandt,Henrik Larsen,eva.petersen@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-102,2026-09-23,Peter Becker,Seaway Crew Transfer Ltd,Key Account Manager,UK,Supplier,C,Nina Petrova,Laura Kessler,peter.becker@seaway.example,Yes,Wants on vendor list for O&M
+NSES26-103,2026-09-23,Hanna Nielsen,Baltic Data Centres ApS,Energy Buyer,DK,Offtake / PPA,B,Kwame Mensah,Henrik Larsen,hanna.nielsen@baltic.example,Yes,Asked for Arcturus case study
+NSES26-104,2026-09-23,Ulf Kristensen,Kieler Kabelwerk GmbH,Key Account Manager,DE,Supplier,A,Isabel Ferreira,Laura Kessler,ulf.kristensen@kieler.example,Yes,Wants on vendor list for O&M
+NSES26-105,2026-09-22,Hugo Larsen,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,B,Kwame Mensah,Henrik Larsen,hugo.larsen@elbe.example,Yes,Port capacity 2027
+NSES26-106,2026-09-24,Anna Berg,Westküste Wasserstoff GmbH,Head of Strategy,DE,Partner,B,Leah Goldberg,Henrik Larsen,anna.berg@westkueste.example,Yes,Hydrogen cluster Westküste
+NSES26-107,2026-09-22,Chloe Larsen,Freelance / job seeker,HSE advisor,–,Careers,C,Mei Tanaka,Nina Petrova,chloe.larsen@mail.example,Yes,Offshore experience 6 y
+NSES26-108,2026-09-23,Zoe Andersen,Glasgow Green Power Co-op,Policy officer,UK,Community / policy,B,Isabel Ferreira,Tom Berger,zoe.andersen@glasgow.example,Yes,Invite to Hamburg energy roundtable
+NSES26-109,2026-09-24,Björn Murray,Baltic Data Centres ApS,Sustainability Director,DK,Offtake / PPA,C,Mei Tanaka,Henrik Larsen,bjoern.murray@baltic.example,Yes,Interested in hydrogen offtake
+NSES26-110,2026-09-23,Chloe Andersen,Port of Esbjerg Services,Head of Strategy,DK,Partner,A,Mei Tanaka,Henrik Larsen,chloe.andersen@port.example,Yes,Hydrogen cluster Westküste
+NSES26-111,2026-09-22,Eva Schulz,Freelance / job seeker,Wind technician,–,Careers,B,Mei Tanaka,Nina Petrova,eva.schulz@mail.example,Yes,CV sent
+NSES26-112,2026-09-22,Björn Krause,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,B,Mei Tanaka,Henrik Larsen,bjoern.krause@nordhafen.example,Yes,Meeting booked for October
+NSES26-113,2026-09-23,Karin Brown,Tyne Fabrication Ltd,Business Development,UK,Supplier,A,Felix Brandt,Laura Kessler,karin.brown@tyne.example,Yes,Send procurement portal link
+NSES26-114,2026-09-22,Vera Jensen,DTU Wind,PhD candidate,DK,Careers / academia,C,Henrik Larsen,Nina Petrova,vera.jensen@dtu.example,Yes,Internship 2027
+NSES26-115,2026-09-22,Nils Hughes,Westküste Wasserstoff GmbH,Project Manager,DE,Partner,B,Noah Fischer,Henrik Larsen,nils.hughes@westkueste.example,Yes,Grid connection talk
+NSES26-116,2026-09-22,Hanna Becker,Halden Turbine Systems A/S,Key Account Manager,DK,Supplier,B,Henrik Larsen,Laura Kessler,hanna.becker@halden.example,Yes,Send procurement portal link
+NSES26-117,2026-09-22,Lukas Nielsen,Tyne Fabrication Ltd,Sales Manager,UK,Supplier,C,Henrik Larsen,Laura Kessler,lukas.nielsen@tyne.example,Yes,Send procurement portal link
+NSES26-118,2026-09-24,Zoe Petersen,Freelance / job seeker,Project engineer,–,Careers,B,Kwame Mensah,Nina Petrova,zoe.petersen@mail.example,Yes,Offshore experience 6 y
+NSES26-119,2026-09-23,David Larsen,University of Hamburg (TUHH),Master student,DE,Careers / academia,C,Mei Tanaka,Nina Petrova,david.larsen@university.example,Yes,Internship 2027
+NSES26-120,2026-09-22,Finn Nielsen,Tyne Fabrication Ltd,Business Development,UK,Supplier,B,Isabel Ferreira,Laura Kessler,finn.nielsen@tyne.example,Yes,Cable accessories
+NSES26-121,2026-09-22,Chloe Jensen,Port of Esbjerg Services,Project Manager,DK,Partner,C,Mei Tanaka,Henrik Larsen,chloe.jensen@port.example,Yes,Grid connection talk
+NSES26-122,2026-09-23,Freya Schmidt,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,B,Noah Fischer,Henrik Larsen,freya.schmidt@arcturus.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-123,2026-09-24,Vera Olsen,Freelance / job seeker,Project engineer,–,Careers,B,Kwame Mensah,Nina Petrova,vera.olsen@mail.example,Yes,CV sent
+NSES26-124,2026-09-24,Greta Kristensen,Freelance / job seeker,Electrical engineer,–,Careers,C,Mei Tanaka,Nina Petrova,greta.kristensen@mail.example,Yes,Offshore experience 6 y
+NSES26-125,2026-09-23,Olga Petersen,Hamburg Ministry for Environment,Board member,DE,Community / policy,A,Mei Tanaka,Tom Berger,olga.petersen@hamburg.example,Yes,Invite to Hamburg energy roundtable
+NSES26-126,2026-09-23,Finn Krause,Elbe Logistics Port GmbH,Project Manager,DE,Partner,C,Leah Goldberg,Henrik Larsen,finn.krause@elbe.example,Yes,Grid connection talk
+NSES26-127,2026-09-22,Vera Krause,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,B,Leah Goldberg,Henrik Larsen,vera.krause@arcturus.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-128,2026-09-23,Yara Schulz,Nordic Pension Infrastructure,Investment Manager,DK,Finance,C,Felix Brandt,Jonas Richter,yara.schulz@nordic.example,Yes,Interested in Millbrook refinancing
+NSES26-129,2026-09-22,Rosa Schulz,Freelance / job seeker,HSE advisor,–,Careers,B,Nina Petrova,Nina Petrova,rosa.schulz@mail.example,Yes,Applying for HV engineer role
+NSES26-130,2026-09-22,Carla Krause,Freelance / job seeker,Project engineer,–,Careers,A,Mei Tanaka,Nina Petrova,carla.krause@mail.example,Yes,Applying for HV engineer role
+NSES26-131,2026-09-23,Freya Andersen,Seaway Crew Transfer Ltd,Business Development,UK,Supplier,B,Nina Petrova,Laura Kessler,freya.andersen@seaway.example,Yes,Crew transfer vessels for Harrow Bay O&M
+NSES26-132,2026-09-22,Björn Hartmann,Elbe Logistics Port GmbH,Head of Strategy,DE,Partner,C,Nina Petrova,Henrik Larsen,bjoern.hartmann@elbe.example,Yes,Grid connection talk
+NSES26-133,2026-09-23,Emil Krause,Freelance / job seeker,Project engineer,–,Careers,A,Felix Brandt,Nina Petrova,emil.krause@mail.example,Yes,Applying for HV engineer role
+NSES26-134,2026-09-23,Hanna Schmidt,Freelance / job seeker,Project engineer,–,Careers,B,Kwame Mensah,Nina Petrova,hanna.schmidt@mail.example,Yes,Offshore experience 6 y
+NSES26-135,2026-09-24,Hanna Nielsen,Arcturus Steel AG,Sustainability Director,DE,Offtake / PPA,A,Henrik Larsen,Henrik Larsen,hanna.nielsen@arcturus.example,Yes,"Wants PPA for 2029+, 50–80 GWh/a"
+NSES26-136,2026-09-23,Vera Brown,Freelance / job seeker,Electrical engineer,–,Careers,C,Felix Brandt,Nina Petrova,vera.brown@mail.example,Yes,Applying for HV engineer role
+NSES26-137,2026-09-23,Sven Koch,Freelance / job seeker,Electrical engineer,–,Careers,B,Felix Brandt,Nina Petrova,sven.koch@mail.example,Yes,Applying for HV engineer role
+NSES26-138,2026-09-23,Björn Nielsen,Arcturus Steel AG,Energy Buyer,DE,Offtake / PPA,B,Felix Brandt,Henrik Larsen,bjoern.nielsen@arcturus.example,Yes,Asked for Arcturus case study
+NSES26-139,2026-09-23,Freya Hartmann,Freelance / job seeker,HSE advisor,–,Careers,B,Isabel Ferreira,Nina Petrova,freya.hartmann@mail.example,Yes,Offshore experience 6 y
+NSES26-140,2026-09-23,Hanna Jensen,Tyne Fabrication Ltd,Key Account Manager,UK,Supplier,B,Isabel Ferreira,Laura Kessler,hanna.jensen@tyne.example,Yes,Crew transfer vessels for Harrow Bay O&M
+NSES26-141,2026-09-24,Jakob Walsh,Tyne Fabrication Ltd,Key Account Manager,UK,Supplier,B,Henrik Larsen,Laura Kessler,jakob.walsh@tyne.example,Yes,Wants on vendor list for O&M
+NSES26-142,2026-09-23,Ben Taylor,Nordhafen Chemie AG,Sustainability Director,DE,Offtake / PPA,A,Isabel Ferreira,Henrik Larsen,ben.taylor@nordhafen.example,Yes,Meeting booked for October

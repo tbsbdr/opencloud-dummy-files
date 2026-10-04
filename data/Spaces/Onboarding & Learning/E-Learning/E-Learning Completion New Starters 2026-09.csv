@@ -1,0 +1,49 @@
+Employee no.,Department,Office,Start date,SEC-01,SEC-02,LEG-01,LEG-02,HSE-01,ENG-01
+WE11020,Legal & Contracts,Edinburgh,2026-01-01,passed,passed,passed,passed,passed,passed
+WE11030,IT & Security,Hamburg,2026-01-01,passed,passed,passed,passed,passed,passed
+WE11054,Legal & Contracts,Hamburg,2026-01-01,passed,passed,passed,passed,passed,not started
+WE11062,Grid & Permits,Edinburgh,2026-01-01,passed,passed,passed,passed,passed,passed
+WE11038,Marketing & Communications,Hamburg,2026-01-15,passed,passed,passed,passed,passed,passed
+WE11070,IT & Security,Edinburgh,2026-01-15,passed,passed,passed,passed,passed,passed
+WE11110,Asset Operations,Edinburgh,2026-01-15,passed,passed,passed,passed,passed,passed
+WE11028,Grid & Permits,Edinburgh,2026-02-01,passed,passed,passed,passed,passed,not started
+WE11048,Grid & Permits,Hamburg,2026-02-01,passed,passed,passed,passed,passed,not started
+WE11066,HR & People,Hamburg,2026-02-01,passed,passed,passed,passed,passed,passed
+WE11058,HR & People,Copenhagen,2026-02-15,passed,passed,passed,passed,passed,not started
+WE11036,Procurement & Supply Chain,Edinburgh,2026-03-01,passed,passed,passed,passed,passed,not started
+WE11072,Engineering,Edinburgh,2026-03-01,passed,passed,passed,passed,passed,passed
+WE11076,Engineering,Copenhagen,2026-03-15,passed,passed,passed,passed,passed,passed
+WE11088,HR & People,Edinburgh,2026-03-15,passed,passed,passed,passed,passed,not started
+WE11104,Projects,Hamburg,2026-03-15,passed,passed,passed,passed,passed,not started
+WE11078,Procurement & Supply Chain,Copenhagen,2026-04-01,passed,passed,passed,passed,passed,not started
+WE11080,IT & Security,Hamburg,2026-04-01,passed,passed,passed,passed,passed,passed
+WE11100,Marketing & Communications,Hamburg,2026-04-01,passed,passed,passed,passed,passed,passed
+WE11034,Marketing & Communications,Edinburgh,2026-05-01,passed,passed,passed,passed,passed,not started
+WE11060,HR & People,Copenhagen,2026-05-01,passed,passed,passed,passed,passed,passed
+WE11084,Engineering,Edinburgh,2026-05-01,passed,passed,passed,passed,passed,passed
+WE11094,Asset Operations,Copenhagen,2026-05-01,passed,passed,passed,passed,passed,passed
+WE11114,Engineering,Edinburgh,2026-05-01,passed,passed,passed,passed,passed,passed
+WE11096,Marketing & Communications,Edinburgh,2026-05-15,passed,passed,passed,passed,passed,passed
+WE11032,Marketing & Communications,Edinburgh,2026-06-01,passed,passed,passed,passed,passed,not started
+WE11040,Grid & Permits,Edinburgh,2026-06-01,passed,passed,passed,passed,passed,not started
+WE11052,Finance & Controlling,Hamburg,2026-06-01,passed,passed,passed,passed,passed,passed
+WE11092,Engineering,Hamburg,2026-06-01,passed,passed,passed,passed,passed,not started
+WE11106,Marketing & Communications,Copenhagen,2026-06-01,passed,passed,passed,passed,passed,not started
+WE11022,Projects,Edinburgh,2026-07-01,passed,passed,passed,passed,passed,not started
+WE11090,Engineering,Edinburgh,2026-07-01,passed,passed,passed,passed,passed,not started
+WE11068,HR & People,Edinburgh,2026-07-15,passed,passed,passed,passed,passed,not started
+WE11074,Legal & Contracts,Edinburgh,2026-07-15,passed,passed,passed,passed,passed,not started
+WE11086,Grid & Permits,Edinburgh,2026-07-15,passed,passed,passed,passed,passed,not started
+WE11024,Finance & Controlling,Copenhagen,2026-08-01,passed,passed,passed,passed,passed,not started
+WE11044,Projects,Copenhagen,2026-08-01,passed,open,passed,passed,passed,not started
+WE11046,Grid & Permits,Copenhagen,2026-08-01,passed,passed,passed,passed,open,not started
+WE11102,Marketing & Communications,Copenhagen,2026-08-01,passed,passed,passed,passed,passed,not started
+WE11050,IT & Security,Edinburgh,2026-08-15,passed,passed,passed,passed,passed,not started
+WE11026,HR & People,Edinburgh,2026-09-01,open,passed,passed,passed,passed,not started
+WE11042,Legal & Contracts,Copenhagen,2026-09-01,passed,passed,passed,passed,passed,not started
+WE11056,Projects,Hamburg,2026-09-01,passed,passed,passed,passed,passed,passed
+WE11064,Legal & Contracts,Hamburg,2026-09-01,passed,passed,passed,passed,passed,passed
+WE11082,HR & People,Edinburgh,2026-09-01,passed,passed,passed,passed,passed,not started
+WE11108,Asset Operations,Edinburgh,2026-09-01,passed,passed,passed,passed,passed,passed
+WE11112,Marketing & Communications,Edinburgh,2026-09-01,passed,passed,passed,passed,passed,passed
+WE11098,Marketing & Communications,Hamburg,2026-09-15,passed,passed,passed,open,passed,not started

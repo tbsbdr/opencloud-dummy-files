@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family="Arial" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="30" y="36" font-size="20" font-weight="bold" fill="#0B3C5D">Millbrook – Single Line Diagram (simplified)</text>
+<text x="30" y="58" fill="#4A5A68">MB-ELE-DRG-0201 · Rev B · 33/132 kV · export limit 70 MW · NordGrid offer NGT-OFF-2025-1187</text>
+<line x1="100" y1="200" x2="1000" y2="200" stroke="#0B3C5D" stroke-width="5"/>
+<text x="1010" y="205" fill="#0B3C5D" font-weight="bold">33 kV busbar</text>
+<line x1="140" y1="200" x2="140" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="130" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="140" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="100" y="400">PV feeder 1</text>
+<text x="100" y="418" fill="#4A5A68">4–5 × 3.11 MVA</text>
+<line x1="280" y1="200" x2="280" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="270" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="280" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="240" y="400">PV feeder 2</text>
+<text x="240" y="418" fill="#4A5A68">4–5 × 3.11 MVA</text>
+<line x1="420" y1="200" x2="420" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="410" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="420" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="380" y="400">PV feeder 3</text>
+<text x="380" y="418" fill="#4A5A68">4–5 × 3.11 MVA</text>
+<line x1="560" y1="200" x2="560" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="550" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="560" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="520" y="400">PV feeder 4</text>
+<text x="520" y="418" fill="#4A5A68">4–5 × 3.11 MVA</text>
+<line x1="700" y1="200" x2="700" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="690" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="700" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="660" y="400">PV feeder 5</text>
+<text x="660" y="418" fill="#4A5A68">4–5 × 3.11 MVA</text>
+<line x1="840" y1="200" x2="840" y2="330" stroke="#22303C" stroke-width="2"/>
+<rect x="830" y="240" width="20" height="20" fill="none" stroke="#22303C"/>
+<circle cx="840" cy="350" r="18" fill="none" stroke="#1FA2A6" stroke-width="2"/>
+<text x="800" y="400">BESS feeder</text>
+<text x="800" y="418" fill="#4A5A68">20 MW / 40 MWh</text>
+<line x1="550" y1="200" x2="550" y2="120" stroke="#22303C" stroke-width="2"/>
+<circle cx="550" cy="105" r="16" fill="none" stroke="#E4572E" stroke-width="2"/><circle cx="550" cy="85" r="16" fill="none" stroke="#E4572E" stroke-width="2"/>
+<text x="580" y="100">Grid transformer 33/132 kV, 90 MVA</text>
+<line x1="550" y1="69" x2="550" y2="40"/>
+<text x="100" y="520" fill="#0B3C5D" font-weight="bold">Connection: 3.8 km 132 kV cable to Millbrook 132 kV substation (NordGrid), new bay</text>
+<text x="100" y="545" fill="#4A5A68">Protection and metering at the point of connection by NordGrid (non-contestable works).</text>
+<text x="100" y="570" fill="#4A5A68">Power plant controller limits export to 70 MW and coordinates BESS charging from PV clipping.</text>
+</svg>

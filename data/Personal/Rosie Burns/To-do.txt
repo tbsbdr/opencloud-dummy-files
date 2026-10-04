@@ -1,0 +1,8 @@
+Rosie's list – September 2026
+
+- [ ] Share draft with Fraser – factory acceptance test report
+- [x] Ask for input from Ross – factory acceptance test report
+- [ ] Review comments from Kirsty – cable lay sequence
+- [ ] Ask for input from Robert – factory acceptance test report
+- [x] Share draft with Joanne – factory acceptance test report
+- [ ] Mandatory training: information security

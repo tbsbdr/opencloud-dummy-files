@@ -1,0 +1,12 @@
+country;city;per_diem_full_day;per_diem_arrival_departure;hotel_cap;currency
+DE;Hamburg;28;14;180;EUR
+DE;other;28;14;130;EUR
+DK;Copenhagen;75;50;1350;DKK
+DK;Aarhus;75;50;1000;DKK
+GB;London;62;41;160;GBP
+GB;Edinburgh;52;35;160;GBP
+GB;Eastholm / Harrow Bay;52;35;120;GBP
+GB;Millbrook;52;35;115;GBP
+BE;Brussels;59;40;150;EUR
+NL;Rotterdam;47;32;140;EUR
+NO;Oslo;75;50;1800;NOK

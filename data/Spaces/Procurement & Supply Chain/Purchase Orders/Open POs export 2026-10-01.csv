@@ -1,0 +1,38 @@
+po_number,date,supplier,description,project,value_eur,status
+PO-2026-00190,2026-08-02,"Kraken Subsea Services","ROV inspection of scour protection",Harrow Bay,62590.00,Open
+PO-2026-00191,2026-08-03,"BladeCare Services GmbH","Leading edge repair",Kestrel Ridge,39500.00,Partially received
+PO-2026-00192,2026-08-04,"Marlow Ecology Ltd","Ecological surveys",Millbrook,9810.00,Partially received
+PO-2026-00194,2026-08-07,"Saltwick Fencing & Groundworks","Access track repairs",Kestrel Ridge,12240.00,Partially received
+PO-2026-00196,2026-08-10,"Marlow Ecology Ltd","Ecological surveys",Millbrook,24530.00,Open
+PO-2026-00197,2026-08-10,"Highline Wind Services","Additional service hours",Kestrel Ridge,22720.00,Open
+PO-2026-00199,2026-08-11,"North Coast Marine Services","Guard vessel hire",Harrow Bay,63580.00,Open
+PO-2026-00202,2026-08-14,"Vestfjord Gearbox Repair AS","Gearbox bearing refurbishment",Kestrel Ridge,67730.00,Open
+PO-2026-00203,2026-08-15,"TideLine Weather Services","Metocean forecasting service",Harrow Bay,7560.00,Partially received
+PO-2026-00204,2026-08-16,"North Coast Marine Services","Guard vessel hire",Harrow Bay,57550.00,Open
+PO-2026-00209,2026-08-18,"Hamburg Office Solutions GmbH","Office supplies Hamburg",Corporate,3080.00,Partially received
+PO-2026-00211,2026-08-24,"MedOffshore Ltd","Offshore medic services",Harrow Bay,20490.00,Open
+PO-2026-00212,2026-08-25,"TideLine Weather Services","Metocean forecasting service",Harrow Bay,7350.00,Open
+PO-2026-00214,2026-08-26,"Port of Eastholm Ltd","Quay dues and cargo dues",Harrow Bay,15450.00,Partially received
+PO-2026-00215,2026-08-28,"BladeCare Services GmbH","Leading edge repair",Kestrel Ridge,36260.00,Open
+PO-2026-00216,2026-08-29,"Coastal Catering & Accommodation","Catering site office Eastholm",Harrow Bay,7430.00,Partially received
+PO-2026-00218,2026-09-01,"Vestfjord Gearbox Repair AS","Gearbox bearing refurbishment",Kestrel Ridge,120040.00,Partially received
+PO-2026-00220,2026-09-03,"MedOffshore Ltd","Offshore medic services",Harrow Bay,20620.00,Open
+PO-2026-00221,2026-09-03,"Saltwick Fencing & Groundworks","Access track repairs",Kestrel Ridge,1850.00,Partially received
+PO-2026-00222,2026-09-04,"TideLine Weather Services","Metocean forecasting service",Harrow Bay,8390.00,Partially received
+PO-2026-00228,2026-09-11,"Marlow Ecology Ltd","Ecological surveys",Millbrook,12300.00,Partially received
+PO-2026-00229,2026-09-15,"Severn Subsea Cables Ltd","Cable protection system spares",Harrow Bay,46550.00,Open
+PO-2026-00230,2026-09-16,"Eastholm Fuel Services","Marine gas oil bunker",Harrow Bay,65940.00,Open
+PO-2026-00232,2026-09-17,"Marlow Ecology Ltd","Ecological surveys",Millbrook,5760.00,Open
+PO-2026-00233,2026-09-20,"Brennan Marine Consulting","LTA site visit costs (rechargeable)",Harrow Bay,18510.00,Partially received
+PO-2026-00234,2026-09-20,"Nordic Rigging Supplies AB","Shackles, slings and rigging gear",Harrow Bay,2560.00,Open
+PO-2026-00235,2026-09-21,"TideLine Weather Services","Metocean forecasting service",Harrow Bay,7130.00,Partially received
+PO-2026-00236,2026-09-24,"North Coast Marine Services","Guard vessel hire",Harrow Bay,64200.00,Open
+PO-2026-00237,2026-09-24,"Hamburg Office Solutions GmbH","Office supplies Hamburg",Corporate,2150.00,Partially received
+PO-2026-00238,2026-09-25,"Marlow Ecology Ltd","Ecological surveys",Millbrook,19610.00,Partially received
+PO-2026-00241,2026-09-27,"Northlight IT Services","Laptops and peripherals",Corporate,24280.00,Partially received
+PO-2026-00242,2026-09-27,"North Coast Marine Services","Guard vessel hire",Harrow Bay,40730.00,Open
+PO-2026-00243,2026-09-28,"Northlight IT Services","Laptops and peripherals",Corporate,37580.00,Open
+PO-2026-00244,2026-09-28,"Vestfjord Gearbox Repair AS","Gearbox bearing refurbishment",Kestrel Ridge,50710.00,Open
+PO-2026-00245,2026-09-28,"SunForge EPC Ltd","Early works – grid study (preferred bidder letter)",Millbrook,85910.00,Open
+PO-2026-00247,2026-09-29,"Severn Subsea Cables Ltd","Cable protection system spares",Harrow Bay,22130.00,Open
+PO-2026-00248,2026-09-30,"Eastholm Fuel Services","Marine gas oil bunker",Harrow Bay,151360.00,Open

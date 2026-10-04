@@ -1,0 +1,42 @@
+target_id,easting,northing,amplitude_nT,est_mass_kg,classification,status
+HB-MAG-001,435604,6046120,743,416.0,Debris,Avoided / no action
+HB-MAG-002,439089,6041576,341,73.7,Geological,Avoided / no action
+HB-MAG-003,442970,6046976,125,30.8,Debris,Avoided / no action
+HB-MAG-004,430752,6046539,589,136.7,Debris,Avoided / no action
+HB-MAG-005,438267,6043419,241,55.6,Debris,Avoided / no action
+HB-MAG-006,436594,6046920,231,87.7,Debris,Avoided / no action
+HB-MAG-007,441887,6045984,871,496.6,Confirmed UXO,Removed 2025-09
+HB-MAG-008,438949,6043060,684,246.0,Debris,Avoided / no action
+HB-MAG-009,431447,6043713,839,371.1,Debris,Avoided / no action
+HB-MAG-010,436061,6046087,457,171.6,Geological,Avoided / no action
+HB-MAG-011,440591,6044068,57,12.6,Possible UXO,Inspected – cleared
+HB-MAG-012,437318,6043517,632,297.7,Geological,Avoided / no action
+HB-MAG-013,440513,6044226,741,237.0,Debris,Avoided / no action
+HB-MAG-014,430861,6044485,387,77.8,Debris,Avoided / no action
+HB-MAG-015,433942,6046387,240,77.7,Geological,Avoided / no action
+HB-MAG-016,436383,6043956,855,440.5,Possible UXO,Inspected – cleared
+HB-MAG-017,441318,6046126,636,231.7,Debris,Avoided / no action
+HB-MAG-018,438347,6043753,817,427.7,Debris,Avoided / no action
+HB-MAG-019,432585,6041129,150,39.6,Confirmed UXO,Removed 2025-09
+HB-MAG-020,433151,6041324,878,295.9,Geological,Avoided / no action
+HB-MAG-021,431792,6042223,810,432.0,Debris,Avoided / no action
+HB-MAG-022,438736,6047061,164,66.5,Debris,Avoided / no action
+HB-MAG-023,432731,6041156,626,152.1,Geological,Avoided / no action
+HB-MAG-024,430046,6043509,243,56.9,Debris,Avoided / no action
+HB-MAG-025,436177,6043657,62,29.5,Geological,Avoided / no action
+HB-MAG-026,436026,6043841,208,101.6,Possible UXO,Inspected – cleared
+HB-MAG-027,440660,6043590,244,128.4,Geological,Avoided / no action
+HB-MAG-028,435448,6043085,643,334.4,Geological,Avoided / no action
+HB-MAG-029,442677,6043033,295,154.5,Possible UXO,Inspected – cleared
+HB-MAG-030,438478,6044191,350,82.6,Debris,Avoided / no action
+HB-MAG-031,437988,6041559,135,62.6,Debris,Avoided / no action
+HB-MAG-032,430332,6046673,581,183.3,Debris,Avoided / no action
+HB-MAG-033,440671,6046223,291,131.3,Confirmed UXO,Removed 2025-09
+HB-MAG-034,436050,6043553,525,242.4,Debris,Avoided / no action
+HB-MAG-035,439120,6045629,436,172.5,Debris,Avoided / no action
+HB-MAG-036,432128,6045780,731,404.6,Geological,Avoided / no action
+HB-MAG-037,435452,6046317,160,95.1,Debris,Avoided / no action
+HB-MAG-038,431671,6042035,770,260.7,Geological,Avoided / no action
+HB-MAG-039,439393,6042553,112,30.1,Debris,Avoided / no action
+HB-MAG-040,441191,6045461,875,379.6,Debris,Avoided / no action
+HB-MAG-041,442041,6041565,679,324.3,Debris,Avoided / no action

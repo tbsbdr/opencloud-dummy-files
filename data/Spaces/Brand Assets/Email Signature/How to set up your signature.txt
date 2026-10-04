@@ -1,0 +1,14 @@
+How to set up your e-mail signature
+===================================
+
+Outlook (Windows/Mac): open Email Signature.html in a browser, select all, copy, and paste into Settings > Signatures. Then replace the fields in brackets.
+
+Thunderbird: Account Settings > 'Use HTML' > paste the file content into the signature box.
+
+Mobile: use the plain-text version below.
+
+[First name Last name] | [Job title]
+Weyland Energy GmbH, Am Sandtorkai 41, 20457 Hamburg
+T +49 40 [000 000 00] | weyland-energy.example
+
+Edinburgh: 12 Rutland Square, Edinburgh EH1 2BB. Copenhagen: Kalvebod Brygge 39, 1560 København V. Event banners (e.g. North Sea Energy Summit, booth B4.210) are added by Marketing for a limited time only – please do not add your own banners, quotes or images.

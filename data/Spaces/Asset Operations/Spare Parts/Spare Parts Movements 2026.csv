@@ -1,0 +1,95 @@
+date,movement,part_number,description,asset,qty,work_order,user
+2026-01-01,RECEIPT,GB-OF-310,Gearbox oil filter element,Altmark,4,WO-26-1660,store.skerrow
+2026-01-02,RECEIPT,PA-32-07,Pitch accumulator 32 l,Skerrow Moor,3,WO-26-3509,store.skerrow
+2026-01-10,RECEIPT,GS-CB-06,Carbon brush set,Kestrel Ridge,4,WO-26-1742,store.skerrow
+2026-01-10,RETURN,INV-STR-100,String inverter 100 kW,Skerrow Moor,4,WO-26-3604,store.skerrow
+2026-01-14,ISSUE,GB-OF-310,Gearbox oil filter element,Kestrel Ridge,1,WO-26-4369,b.okoye
+2026-01-14,RETURN,GB-OF-310,Gearbox oil filter element,Nordheide,4,WO-26-3018,store.husum
+2026-01-22,RETURN,TRK-MOT-24,Tracker motor,Uckermark Solar,2,WO-26-1833,store.husum
+2026-01-23,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Altmark,20,WO-26-2385,store.husum
+2026-01-26,ISSUE,PA-32-07,Pitch accumulator 32 l,Nordheide,3,WO-26-2746,store.husum
+2026-01-28,ISSUE,CV-IGBT-1700,IGBT converter module,Altmark,1,WO-26-1121,p.doyle
+2026-01-29,RECEIPT,GB-COMPL-42,Complete gearbox (pool exchange unit),Kestrel Ridge,1,WO-26-0117,b.okoye
+2026-02-02,RECEIPT,INV-STR-100,String inverter 100 kW,Altmark,1,WO-26-3648,b.okoye
+2026-02-05,ISSUE,GB-OF-310,Gearbox oil filter element,Wesermarsch,3,WO-26-3611,store.skerrow
+2026-02-11,ISSUE,INV-STR-100,String inverter 100 kW,Wesermarsch,1,WO-26-2817,p.doyle
+2026-02-13,ISSUE,CV-IGBT-1700,IGBT converter module,Skerrow Moor,3,WO-26-1487,store.husum
+2026-02-13,RETURN,GS-CB-06,Carbon brush set,Skerrow Moor,1,WO-26-3040,b.okoye
+2026-02-14,RETURN,CV-IGBT-1700,IGBT converter module,Dunmore Hill,4,WO-26-3876,b.okoye
+2026-02-17,RECEIPT,PA-32-07,Pitch accumulator 32 l,Wesermarsch,2,WO-26-4478,b.okoye
+2026-02-18,RETURN,INV-STR-100,String inverter 100 kW,Altmark,1,WO-26-3681,store.skerrow
+2026-02-19,ISSUE,GB-OF-310,Gearbox oil filter element,Nordheide,2,WO-26-3947,store.skerrow
+2026-02-19,ISSUE,INV-STR-100,String inverter 100 kW,Skerrow Moor,4,WO-26-1655,b.okoye
+2026-02-19,RECEIPT,CV-IGBT-1700,IGBT converter module,Dunmore Hill,2,WO-26-4295,p.doyle
+2026-02-20,RETURN,PV-545-BF,PV module 545 Wp bifacial,Uckermark Solar,20,WO-26-1733,p.doyle
+2026-02-22,ISSUE,GB-OF-310,Gearbox oil filter element,Kestrel Ridge,4,WO-26-2053,s.lindgren
+2026-02-23,ISSUE,TRK-MOT-24,Tracker motor,Skerrow Moor,4,WO-26-3387,store.skerrow
+2026-02-24,RETURN,NC-FAN-55,Nacelle cooling fan motor,Altmark,4,WO-26-2009,store.skerrow
+2026-02-25,ISSUE,CV-IGBT-1700,IGBT converter module,Wesermarsch,1,WO-26-3354,b.okoye
+2026-03-01,RETURN,GS-CB-06,Carbon brush set,Nordheide,3,WO-26-2825,p.doyle
+2026-03-04,ISSUE,GS-CB-06,Carbon brush set,Dunmore Hill,1,WO-26-3758,s.lindgren
+2026-03-04,RECEIPT,GB-ISS-BRG-R,ISS bearing (rotor side),Kestrel Ridge,2,WO-26-0388,b.okoye
+2026-03-06,ISSUE,INV-STR-100,String inverter 100 kW,Skerrow Moor,4,WO-26-2218,b.okoye
+2026-03-07,ISSUE,INV-STR-100,String inverter 100 kW,Dunmore Hill,2,WO-26-2336,store.skerrow
+2026-03-08,RETURN,PA-32-07,Pitch accumulator 32 l,Nordheide,2,WO-26-2031,b.okoye
+2026-03-13,RETURN,NC-FAN-55,Nacelle cooling fan motor,Altmark,1,WO-26-3064,store.husum
+2026-03-13,RETURN,PA-32-07,Pitch accumulator 32 l,Dunmore Hill,3,WO-26-3909,store.husum
+2026-03-17,ISSUE,NC-FAN-55,Nacelle cooling fan motor,Dunmore Hill,3,WO-26-1728,s.lindgren
+2026-03-17,ISSUE,TRK-MOT-24,Tracker motor,Skerrow Moor,4,WO-26-1906,p.doyle
+2026-04-03,ISSUE,GB-OF-310,Gearbox oil filter element,Nordheide,1,WO-26-3088,store.skerrow
+2026-04-03,RETURN,INV-STR-100,String inverter 100 kW,Nordheide,3,WO-26-4436,s.lindgren
+2026-04-08,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Altmark,20,WO-26-2452,store.husum
+2026-04-10,RECEIPT,TRK-MOT-24,Tracker motor,Uckermark Solar,3,WO-26-2691,store.husum
+2026-04-10,RETURN,GB-OF-310,Gearbox oil filter element,Wesermarsch,4,WO-26-2736,s.lindgren
+2026-04-16,RECEIPT,INV-STR-100,String inverter 100 kW,Skerrow Moor,1,WO-26-1860,b.okoye
+2026-04-18,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Skerrow Moor,10,WO-26-4611,store.husum
+2026-04-22,ISSUE,CV-IGBT-1700,IGBT converter module,Uckermark Solar,2,WO-26-2220,s.lindgren
+2026-04-28,ISSUE,GB-OF-310,Gearbox oil filter element,Uckermark Solar,1,WO-26-3238,s.lindgren
+2026-05-06,ISSUE,NC-FAN-55,Nacelle cooling fan motor,Nordheide,3,WO-26-1717,p.doyle
+2026-05-08,ISSUE,GB-OF-310,Gearbox oil filter element,Skerrow Moor,2,WO-26-3283,store.husum
+2026-05-08,ISSUE,PA-32-07,Pitch accumulator 32 l,Dunmore Hill,3,WO-26-1800,b.okoye
+2026-05-10,RECEIPT,PA-32-07,Pitch accumulator 32 l,Kestrel Ridge,2,WO-26-1645,store.skerrow
+2026-05-10,RECEIPT,PA-32-07,Pitch accumulator 32 l,Uckermark Solar,2,WO-26-2493,s.lindgren
+2026-05-12,ISSUE,GB-ISS-BRG-R,ISS bearing (rotor side),Kestrel Ridge,1,WO-26-1204,p.doyle
+2026-05-14,RETURN,YB-PAD-12,Yaw brake pad set,Dunmore Hill,3,WO-26-1785,p.doyle
+2026-05-23,RECEIPT,PV-545-BF,PV module 545 Wp bifacial,Dunmore Hill,10,WO-26-4180,store.husum
+2026-05-24,ISSUE,YB-PAD-12,Yaw brake pad set,Nordheide,4,WO-26-2877,s.lindgren
+2026-06-03,ISSUE,TRK-MOT-24,Tracker motor,Nordheide,3,WO-26-2455,store.husum
+2026-06-05,ISSUE,YB-PAD-12,Yaw brake pad set,Skerrow Moor,2,WO-26-2196,store.skerrow
+2026-06-06,RETURN,INV-STR-100,String inverter 100 kW,Skerrow Moor,2,WO-26-3846,store.skerrow
+2026-06-18,RECEIPT,PV-545-BF,PV module 545 Wp bifacial,Nordheide,10,WO-26-4022,s.lindgren
+2026-06-19,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Skerrow Moor,10,WO-26-3802,b.okoye
+2026-06-19,RECEIPT,GB-ISS-BRG-R,ISS bearing (rotor side),Kestrel Ridge,1,WO-26-1204,b.okoye
+2026-06-20,ISSUE,TRK-MOT-24,Tracker motor,Uckermark Solar,3,WO-26-2466,store.husum
+2026-06-22,RECEIPT,TRK-MOT-24,Tracker motor,Nordheide,2,WO-26-2134,b.okoye
+2026-06-26,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Kestrel Ridge,10,WO-26-4955,store.skerrow
+2026-06-27,RETURN,NC-FAN-55,Nacelle cooling fan motor,Wesermarsch,2,WO-26-1106,s.lindgren
+2026-06-28,ISSUE,INV-STR-100,String inverter 100 kW,Dunmore Hill,2,WO-26-4731,b.okoye
+2026-07-02,RECEIPT,INV-STR-100,String inverter 100 kW,Kestrel Ridge,1,WO-26-2231,s.lindgren
+2026-07-02,RETURN,NC-FAN-55,Nacelle cooling fan motor,Dunmore Hill,3,WO-26-4277,store.skerrow
+2026-07-07,ISSUE,NC-FAN-55,Nacelle cooling fan motor,Dunmore Hill,2,WO-26-3561,p.doyle
+2026-07-12,ISSUE,GS-CB-06,Carbon brush set,Skerrow Moor,3,WO-26-2989,store.skerrow
+2026-07-13,RETURN,TRK-MOT-24,Tracker motor,Nordheide,4,WO-26-4304,store.husum
+2026-07-16,ISSUE,INV-STR-100,String inverter 100 kW,Uckermark Solar,2,WO-26-3536,store.husum
+2026-07-18,ISSUE,PV-545-BF,PV module 545 Wp bifacial,Altmark,20,WO-26-1537,p.doyle
+2026-07-26,ISSUE,CV-IGBT-1700,IGBT converter module,Kestrel Ridge,3,WO-26-2652,b.okoye
+2026-07-26,RETURN,INV-STR-100,String inverter 100 kW,Kestrel Ridge,4,WO-26-3617,p.doyle
+2026-08-02,RETURN,GS-CB-06,Carbon brush set,Altmark,2,WO-26-1205,p.doyle
+2026-08-02,RETURN,GS-CB-06,Carbon brush set,Nordheide,1,WO-26-2889,b.okoye
+2026-08-02,RETURN,GS-CB-06,Carbon brush set,Nordheide,3,WO-26-4953,b.okoye
+2026-08-06,ISSUE,GS-CB-06,Carbon brush set,Kestrel Ridge,3,WO-26-2761,store.husum
+2026-08-06,ISSUE,TRK-MOT-24,Tracker motor,Skerrow Moor,4,WO-26-1740,p.doyle
+2026-08-06,RETURN,CV-IGBT-1700,IGBT converter module,Kestrel Ridge,4,WO-26-2987,store.skerrow
+2026-08-10,RETURN,GS-CB-06,Carbon brush set,Altmark,1,WO-26-1837,s.lindgren
+2026-08-13,RECEIPT,INV-STR-100,String inverter 100 kW,Altmark,3,WO-26-4648,p.doyle
+2026-08-16,ISSUE,PA-32-07,Pitch accumulator 32 l,Skerrow Moor,1,WO-26-4113,store.husum
+2026-08-17,RETURN,NC-FAN-55,Nacelle cooling fan motor,Uckermark Solar,4,WO-26-3786,b.okoye
+2026-09-02,RECEIPT,GS-CB-06,Carbon brush set,Wesermarsch,4,WO-26-3751,store.husum
+2026-09-08,RECEIPT,NC-FAN-55,Nacelle cooling fan motor,Dunmore Hill,2,WO-26-2705,b.okoye
+2026-09-09,ISSUE,PA-32-07,Pitch accumulator 32 l,Skerrow Moor,1,WO-26-2414,store.skerrow
+2026-09-15,ISSUE,TRK-MOT-24,Tracker motor,Kestrel Ridge,3,WO-26-2336,store.husum
+2026-09-16,ISSUE,PA-32-07,Pitch accumulator 32 l,Uckermark Solar,4,WO-26-1542,b.okoye
+2026-09-19,ISSUE,NC-FAN-55,Nacelle cooling fan motor,Dunmore Hill,3,WO-26-1056,store.husum
+2026-09-19,ISSUE,YB-PAD-12,Yaw brake pad set,Uckermark Solar,4,WO-26-1987,s.lindgren
+2026-09-20,RETURN,TRK-MOT-24,Tracker motor,Altmark,4,WO-26-2317,store.skerrow
+2026-09-22,ISSUE,CV-IGBT-1700,IGBT converter module,Nordheide,2,WO-26-3931,b.okoye

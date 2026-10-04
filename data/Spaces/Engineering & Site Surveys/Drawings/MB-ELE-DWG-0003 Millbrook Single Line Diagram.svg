@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="820" viewBox="0 0 1300 820">
+  <rect x="0" y="0" width="1300" height="820" fill="#FFFFFF"/>
+  <rect x="10" y="10" width="1280" height="800" rx="0" fill="none" stroke="#1D2B36" stroke-width="2"/>
+  <text x="40" y="50" font-family="Arial" font-size="18" fill="#0B3C5D" text-anchor="start" font-weight="bold">MILLBROOK SOLAR &amp; STORAGE – SINGLE LINE DIAGRAM (PLANNING ISSUE)</text>
+  <text x="40" y="72" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="start">85 MWp PV (68 MWac)  ·  20 MW / 40 MWh BESS  ·  132/33 kV substation</text>
+  <line x1="650" y1="100" x2="650" y2="150" stroke="#1D2B36" stroke-width="3"/>
+  <text x="662" y="120" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">132 kV cable to Millbrook Bulk Supply Point</text>
+  <rect x="644.0" y="150" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="650" y1="162" x2="650" y2="185" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="650" cy="199" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <circle cx="650" cy="217" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="672" y="212" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">GT1  100 MVA  132/33 kV</text>
+  <line x1="650" y1="231" x2="650" y2="280" stroke="#1D2B36" stroke-width="2"/>
+  <line x1="200" y1="280" x2="1100" y2="280" stroke="#0B3C5D" stroke-width="5"/>
+  <text x="200" y="272" font-family="Arial" font-size="12" fill="#0B3C5D" text-anchor="start" font-weight="bold">33 kV SWITCHBOARD</text>
+  <line x1="260" y1="280" x2="260" y2="310" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="254.0" y="310" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="260" y1="322" x2="260" y2="360" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="215" y="360" width="90" height="50" rx="0" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="260" y="382" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">PV block 1</text>
+  <text x="260" y="398" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">17 MWac</text>
+  <line x1="260" y1="410" x2="260" y2="450" stroke="#1D2B36" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="260" y="468" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">inverters / trackers</text>
+  <line x1="410" y1="280" x2="410" y2="310" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="404.0" y="310" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="410" y1="322" x2="410" y2="360" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="365" y="360" width="90" height="50" rx="0" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="410" y="382" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">PV block 2</text>
+  <text x="410" y="398" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">17 MWac</text>
+  <line x1="410" y1="410" x2="410" y2="450" stroke="#1D2B36" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="410" y="468" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">inverters / trackers</text>
+  <line x1="560" y1="280" x2="560" y2="310" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="554.0" y="310" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="560" y1="322" x2="560" y2="360" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="515" y="360" width="90" height="50" rx="0" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="560" y="382" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">PV block 3</text>
+  <text x="560" y="398" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">17 MWac</text>
+  <line x1="560" y1="410" x2="560" y2="450" stroke="#1D2B36" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="560" y="468" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">inverters / trackers</text>
+  <line x1="710" y1="280" x2="710" y2="310" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="704.0" y="310" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="710" y1="322" x2="710" y2="360" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="665" y="360" width="90" height="50" rx="0" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="710" y="382" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">PV block 4</text>
+  <text x="710" y="398" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">17 MWac</text>
+  <line x1="710" y1="410" x2="710" y2="450" stroke="#1D2B36" stroke-width="2" stroke-dasharray="4 3"/>
+  <text x="710" y="468" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">inverters / trackers</text>
+  <line x1="950" y1="280" x2="950" y2="310" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="944.0" y="310" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="950" y1="322" x2="950" y2="360" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="950" cy="374" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <circle cx="950" cy="392" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="972" y="387" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">33/0.69 kV</text>
+  <line x1="950" y1="406" x2="950" y2="440" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="880" y="440" width="140" height="70" rx="0" fill="#FFF4DA" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="950" y="470" font-family="Arial" font-size="13" fill="#1D2B36" text-anchor="middle" font-weight="bold">BESS</text>
+  <text x="950" y="490" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">20 MW / 40 MWh (LFP)</text>
+  <text x="40" y="720" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Planning issue only – detailed design by EPC contractor after consent (MDC/2026/0412).</text>
+  <rect x="870" y="710" width="410" height="90" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.5"/>
+  <line x1="870" y1="740" x2="1280" y2="740" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="870" y1="770" x2="1280" y2="770" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="1075" y1="740" x2="1075" y2="800" stroke="#1D2B36" stroke-width="1"/>
+  <text x="878" y="730" font-family="Arial" font-size="11" fill="#0B3C5D" text-anchor="start" font-weight="bold">WEYLAND ENERGY  ·  MILLBROOK</text>
+  <text x="878" y="760" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start" font-weight="bold">Plant SLD – planning issue</text>
+  <text x="1083" y="760" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">Dwg MB-ELE-DWG-0003</text>
+  <text x="878" y="790" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Rev B   2026-05-26   Scale NTS</text>
+  <text x="1083" y="790" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Drawn MT  Chk SL</text>
+</svg>

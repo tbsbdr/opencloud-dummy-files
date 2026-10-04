@@ -1,0 +1,8 @@
+Ole's list – July 2026
+
+- [x] Ask for input from Sindre – laptop rollout plan
+- [ ] Share draft with Sören – backup restore test
+- [ ] Ask for input from Tariq – iso 27001 control evidence
+- [x] Review comments from Sophie – opencloud migration tasks
+- [x] Share draft with Jan – phishing simulation results
+- [ ] Expense claim September

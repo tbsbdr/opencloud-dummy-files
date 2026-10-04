@@ -1,0 +1,19 @@
+cost_centre;name;responsible;company_code;valid_from;profit_centre
+1000;Executive Board & Office of the CEO;Dr. Amara Okafor;1000;2026-01-01;PC10
+1100;Finance & Controlling;Jonas Richter;1000;2026-01-01;PC11
+1150;Investor Relations;Jonas Richter;1000;2026-01-01;PC11
+1200;Legal & Contracts;Priya Nair;1000;2026-01-01;PC12
+1300;HR & People;Julia Hoffmann;1000;2026-01-01;PC13
+1400;IT & Security;Katarzyna Nowak;1000;2026-01-01;PC14
+1500;Marketing & Communications;Noah Fischer;1000;2026-01-01;PC15
+2000;Asset Operations (fleet);David Chen;1000;2026-01-01;PC20
+2100;Kestrel Ridge Wind Farm;David Chen;2000;2026-01-01;PC21
+3000;Engineering & Site Surveys;Sofie Lindqvist;2000;2026-01-01;PC30
+3100;Grid & Permits;Sofie Lindqvist;2000;2026-01-01;PC31
+4100;Millbrook Solar & Storage (development);Liam McAllister;2000;2026-01-01;PC41
+4200;Fenwick Battery Storage (development);Liam McAllister;2000;2026-01-01;PC42
+4300;Green Hydrogen Pilot;Sofie Lindqvist;2000;2026-01-01;PC43
+4900;Business development & bids;Dr. Amara Okafor;2000;2026-01-01;PC49
+5000;Health, Safety & Environment;Hannah Weber;1000;2026-01-01;PC50
+5100;Procurement & Supply Chain;Elena Márquez;1000;2026-01-01;PC51
+6000;Community Engagement & benefit funds;Tom Berger;1000;2026-01-01;PC60

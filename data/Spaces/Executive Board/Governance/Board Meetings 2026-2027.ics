@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weyland Energy//Board Calendar//EN
+BEGIN:VEVENT
+UID:sb-20261210@weyland-energy.example
+DTSTART:20261210T100000
+DTEND:20261210T160000
+SUMMARY:Supervisory Board – Q4 meeting – budget
+LOCATION:Hamburg
+DESCRIPTION:Budget 2027, board calendar. Board pack due 2026-12-03.
+END:VEVENT
+BEGIN:VEVENT
+UID:sb-20270318@weyland-energy.example
+DTSTART:20270318T100000
+DTEND:20270318T160000
+SUMMARY:Supervisory Board – Q1 meeting
+LOCATION:Hamburg
+DESCRIPTION:Annual accounts 2026. Board pack due 2027-03-11.
+END:VEVENT
+BEGIN:VEVENT
+UID:sb-20270624@weyland-energy.example
+DTSTART:20270624T100000
+DTEND:20270624T160000
+SUMMARY:Supervisory Board – Q2 meeting
+LOCATION:Edinburgh
+DESCRIPTION:Millbrook decision, H1. Board pack due 2027-06-17.
+END:VEVENT
+BEGIN:VEVENT
+UID:sb-20270923@weyland-energy.example
+DTSTART:20270923T100000
+DTEND:20270923T160000
+SUMMARY:Supervisory Board – Q3 meeting
+LOCATION:Copenhagen
+DESCRIPTION:Forecast 3, strategy review. Board pack due 2027-09-16.
+END:VEVENT
+BEGIN:VEVENT
+UID:sb-20271209@weyland-energy.example
+DTSTART:20271209T100000
+DTEND:20271209T160000
+SUMMARY:Supervisory Board – Q4 meeting – budget
+LOCATION:Hamburg
+DESCRIPTION:Budget 2028. Board pack due 2027-12-02.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,8 @@
+Lewis's list – June 2026
+
+- [ ] Prepare slides for Henrik – port of eastholm laydown plan
+- [ ] Prepare slides for Robert – interface matrix halden / norfab
+- [x] Prepare slides for Emma – port of eastholm laydown plan
+- [ ] Send updated figures to Kieran – turbine installation readiness 2027
+- [ ] Review comments from Duncan – interface matrix halden / norfab
+- [ ] Submit timesheet

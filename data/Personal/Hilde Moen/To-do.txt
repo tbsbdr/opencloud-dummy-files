@@ -1,0 +1,8 @@
+Hilde's list – June 2026
+
+- [x] Confirm dates with Robert – monopile fatigue check
+- [ ] Ask for input from Jonas – wake loss sensitivity
+- [ ] Check open points with Gustav – design basis review comments
+- [ ] Confirm dates with Niels – scada tag list
+- [ ] Review comments from Jonas – monopile fatigue check
+- [ ] Submit timesheet

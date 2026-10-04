@@ -1,0 +1,15 @@
+Ref.,Received,Type,Data subject group,Channel,Deadline,Closed,Outcome
+DSR-2026-001,2026-01-08,Access (Art. 15),Former employee,Web form,2026-02-08,2026-01-21,Partially – retention obligation
+DSR-2026-002,2026-01-19,Access (Art. 15),Applicant,Web form,2026-02-19,2026-01-27,Completed
+DSR-2026-003,2026-02-19,Objection (Art. 21),Former employee,Web form,2026-03-19,2026-02-28,Completed
+DSR-2026-004,2026-02-20,Rectification (Art. 16),Newsletter subscriber,Email,2026-03-20,2026-02-28,Completed
+DSR-2026-005,2026-03-01,Objection (Art. 21),Applicant,Web form,2026-04-01,2026-03-19,Completed
+DSR-2026-006,2026-04-01,Access (Art. 15),Applicant,Letter,2026-05-01,2026-04-21,Completed
+DSR-2026-007,2026-04-20,Access (Art. 15),Resident Millbrook,Email,2026-05-20,2026-04-28,Completed
+DSR-2026-008,2026-05-03,Access (Art. 15),Newsletter subscriber,Email,2026-06-03,2026-05-06,Partially – retention obligation
+DSR-2026-009,2026-06-19,Access (Art. 15),Resident Millbrook,Web form,2026-07-19,2026-06-28,Partially – retention obligation
+DSR-2026-010,2026-06-02,Rectification (Art. 16),Former employee,Letter,2026-07-02,2026-06-09,Partially – retention obligation
+DSR-2026-011,2026-07-20,Rectification (Art. 16),Employee,Web form,2026-08-20,2026-07-26,Partially – retention obligation
+DSR-2026-012,2026-08-18,Access (Art. 15),Employee,Letter,2026-09-18,2026-08-28,Completed
+DSR-2026-013,2026-08-23,Objection (Art. 21),Employee,Email,2026-09-23,2026-08-28,Completed
+DSR-2026-014,2026-09-09,Access (Art. 15),Former employee,Email,2026-10-09,,Open

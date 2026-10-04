@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weyland Energy//HR Holiday Calendar//EN
+X-WR-CALNAME:Weyland holidays 2027
+BEGIN:VEVENT
+UID:bw-hol-2027-00@weyland-energy.example
+DTSTART;VALUE=DATE:20270101
+SUMMARY:New Year's Day (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-01@weyland-energy.example
+DTSTART;VALUE=DATE:20270104
+SUMMARY:Bank holiday (Scotland, 2 Jan substitute) (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-02@weyland-energy.example
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Maundy Thursday (Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-03@weyland-energy.example
+DTSTART;VALUE=DATE:20270326
+SUMMARY:Good Friday (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-04@weyland-energy.example
+DTSTART;VALUE=DATE:20270329
+SUMMARY:Easter Monday (Hamburg/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-05@weyland-energy.example
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Labour Day (Hamburg)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-06@weyland-energy.example
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Early May bank holiday (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-07@weyland-energy.example
+DTSTART;VALUE=DATE:20270506
+SUMMARY:Ascension Day (Hamburg/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-08@weyland-energy.example
+DTSTART;VALUE=DATE:20270507
+SUMMARY:Bridge day (company) (Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-09@weyland-energy.example
+DTSTART;VALUE=DATE:20270517
+SUMMARY:Whit Monday (Hamburg/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-10@weyland-energy.example
+DTSTART;VALUE=DATE:20270531
+SUMMARY:Spring bank holiday (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-11@weyland-energy.example
+DTSTART;VALUE=DATE:20270605
+SUMMARY:Constitution Day (Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-12@weyland-energy.example
+DTSTART;VALUE=DATE:20270802
+SUMMARY:Summer bank holiday (Scotland) (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-13@weyland-energy.example
+DTSTART;VALUE=DATE:20271003
+SUMMARY:Day of German Unity (Hamburg)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-14@weyland-energy.example
+DTSTART;VALUE=DATE:20271031
+SUMMARY:Reformation Day (Hamburg)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-15@weyland-energy.example
+DTSTART;VALUE=DATE:20271130
+SUMMARY:St Andrew's Day (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-16@weyland-energy.example
+DTSTART;VALUE=DATE:20271224
+SUMMARY:Christmas Eve (company day off) (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-17@weyland-energy.example
+DTSTART;VALUE=DATE:20271225
+SUMMARY:Christmas Day (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-18@weyland-energy.example
+DTSTART;VALUE=DATE:20271226
+SUMMARY:Boxing Day / 2nd Christmas Day (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-19@weyland-energy.example
+DTSTART;VALUE=DATE:20271227
+SUMMARY:Substitute day (Edinburgh)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-hol-2027-20@weyland-energy.example
+DTSTART;VALUE=DATE:20271231
+SUMMARY:New Year's Eve (company day off) (Hamburg/Edinburgh/Copenhagen)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

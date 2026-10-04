@@ -1,0 +1,33 @@
+supplier_id,supplier,category,country,criticality,status
+SUP-1007,"Halden Turbine Systems A/S",Wind turbines,DK,Critical,approved
+SUP-1014,"Rhenus Steelworks Foundations GmbH",Foundations,DE,Critical,approved
+SUP-1021,"Severn Subsea Cables Ltd",HV cables,UK,Critical,approved
+SUP-1028,"Atlas Marine Contractors",Installation vessels,NL,Critical,approved
+SUP-1035,"Norfab Offshore Structures",Offshore substation,UK,Critical,approved
+SUP-1042,"Highline Wind Services",O&M services,UK,High,approved
+SUP-1056,"Marlow Ecology Ltd",Environmental consultancy,UK,High,approved
+SUP-1063,"Port of Eastholm Ltd",Port services,UK,Critical,approved
+SUP-1070,"Eastholm Workboats Ltd",Crew transfer vessels,UK,High,approved
+SUP-1077,"North Coast Marine Services",Guard vessels,UK,Medium,approved
+SUP-1084,"Brennan Marine Consulting",Lenders' technical adviser,IE,Medium,approved
+SUP-1091,"Kranlogistik Nord GmbH",Crane hire,DE,Medium,approved
+SUP-1098,"Tees Heavy Lift Ltd",Crane hire,UK,Medium,approved
+SUP-1105,"SeaScan Survey Ltd",Marine survey,UK,Medium,approved
+SUP-1112,"Baltic Geo Services ApS",Geotechnical survey,DK,Medium,approved
+SUP-1119,"Nordic Rigging Supplies AB",Rigging & lifting gear,SE,Medium,approved
+SUP-1126,"Albion Safety Equipment Ltd",PPE & safety equipment,UK,Low,approved
+SUP-1133,"Hamburg Office Solutions GmbH",Office supplies,DE,Low,approved
+SUP-1140,"Northlight IT Services",IT managed services,UK,High,approved
+SUP-1147,"Keller & Rowe Wirtschaftsprüfung",Audit & tax,DE,Medium,approved
+SUP-1154,"Thames Insurance Brokers",Insurance brokerage,UK,Medium,approved
+SUP-1161,"Vestfjord Gearbox Repair AS",Drivetrain repair,NO,Medium,approved
+SUP-1175,"BladeCare Services GmbH",Blade repair,DE,Medium,approved
+SUP-1189,"Harrow Bay Civil Contractors Ltd",Civil works onshore,UK,High,approved
+SUP-1196,"Saltwick Fencing & Groundworks",Civil works small,UK,Low,approved
+SUP-1203,"Eastholm Fuel Services",Marine fuel,UK,Medium,approved
+SUP-1210,"Coastal Catering & Accommodation",Catering offshore,UK,Low,approved
+SUP-1217,"MedOffshore Ltd",Offshore medical services,UK,Medium,approved
+SUP-1224,"Kraken Subsea Services",ROV & diving,UK,Medium,approved
+SUP-1231,"TideLine Weather Services",Metocean forecasting,UK,Medium,approved
+SUP-1252,"Nordic Electrolysers AS",Electrolysers,NO,Medium,approved
+SUP-1308,"Bolt & Torque Solutions Ltd",Bolt tensioning,UK,Medium,approved

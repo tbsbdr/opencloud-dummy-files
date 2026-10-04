@@ -1,0 +1,8 @@
+Malte's list – April 2026
+
+- [x] Book follow-up meeting with Thomas – patch management report
+- [ ] Prepare slides for Maren – change request summary
+- [ ] Send updated figures to Nadine – service desk kpis
+- [x] Send updated figures to Laura – patch management report
+- [x] Ask for input from Torben – change request summary
+- [ ] Mandatory training: information security

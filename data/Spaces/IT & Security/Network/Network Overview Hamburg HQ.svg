@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" font-family="Arial">
+<rect width="1100" height="640" fill="#FFFFFF"/>
+<text x="24" y="34" font-size="20" font-weight="bold" fill="#0B3C5D">Network overview – Hamburg HQ (Am Sandtorkai 41)</text>
+<text x="24" y="56" font-size="12" fill="#4A5A68">Logical view · VLANs · status July 2026 · owner Jan Kowalski</text>
+<rect x="420" y="80" width="260" height="50" rx="6" fill="#0B3C5D" stroke="#0B3C5D"/>
+<text x="550.0" y="101.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Internet</text>
+<text x="550.0" y="118.0" font-size="10.5" text-anchor="middle" fill="#FFFFFF">2 × 1 Gbit/s (fibre + 5G backup)</text>
+<rect x="420" y="170" width="260" height="56" rx="6" fill="#1FA2A6" stroke="#0B3C5D"/>
+<text x="550.0" y="194.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">FortiGate 100F HA pair</text>
+<text x="550.0" y="211.0" font-size="10.5" text-anchor="middle" fill="#FFFFFF">Firewall, SD-WAN, VPN</text>
+<line x1="550" y1="130" x2="550" y2="170" stroke="#4A5A68" stroke-width="2"/>
+<rect x="420" y="270" width="260" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="550.0" y="294.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">Core switch stack</text>
+<text x="550.0" y="311.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Cisco Catalyst 9300 × 2</text>
+<line x1="550" y1="226" x2="550" y2="270" stroke="#4A5A68" stroke-width="2"/>
+<rect x="40" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="120.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 10</text>
+<text x="120.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Staff (802.1X)</text>
+<line x1="550" y1="326" x2="120" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="215" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="295.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 20</text>
+<text x="295.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Guests – internet only</text>
+<line x1="550" y1="326" x2="295" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="390" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="470.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 30</text>
+<text x="470.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Servers / DCs</text>
+<line x1="550" y1="326" x2="470" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="565" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="645.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 40</text>
+<text x="645.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Printers / MFP</text>
+<line x1="550" y1="326" x2="645" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="740" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="820.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 50</text>
+<text x="820.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Meeting room AV</text>
+<line x1="550" y1="326" x2="820" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="915" y="400" width="160" height="56" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="995.0" y="424.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">VLAN 60</text>
+<text x="995.0" y="441.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">Building / CCTV</text>
+<line x1="550" y1="326" x2="995" y2="400" stroke="#4A5A68" stroke-width="2"/>
+<rect x="780" y="170" width="280" height="56" rx="6" fill="#F2B134" stroke="#0B3C5D"/>
+<text x="920.0" y="194.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">SD-WAN to Edinburgh / Copenhagen</text>
+<text x="920.0" y="211.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">IPsec, see WAN diagram</text>
+<line x1="680" y1="198" x2="780" y2="198" stroke="#4A5A68" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="40" y="170" width="300" height="56" rx="6" fill="#F2B134" stroke="#0B3C5D"/>
+<text x="190.0" y="194.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">Northlight data centres FRA / NUE</text>
+<text x="190.0" y="211.0" font-size="10.5" text-anchor="middle" fill="#0B3C5D">File platform, backup, SOC</text>
+<line x1="340" y1="198" x2="420" y2="198" stroke="#4A5A68" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="40" y="520" width="1020" height="70" rx="6" fill="#EEF3F6" stroke="#0B3C5D"/>
+<text x="550.0" y="559.0" font-size="12" font-weight="bold" text-anchor="middle" fill="#0B3C5D">Access layer: 14 access switches, 38 Wi-Fi access points (floors 0–4), server &amp; network room 3rd floor</text>
+<text x="24" y="625" font-size="10" fill="#4A5A68">Dashed = encrypted tunnels. OT networks are not connected to the HQ LAN.</text>
+</svg>

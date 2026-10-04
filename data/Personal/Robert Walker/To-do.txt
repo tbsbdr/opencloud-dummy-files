@@ -1,0 +1,8 @@
+Robert's list – August 2026
+
+- [ ] Send updated figures to Lukas – met mast data qa
+- [x] Book follow-up meeting with Craig – array cable routing options
+- [x] Ask for input from Sofie – scada tag list
+- [ ] Send updated figures to Jakob – wake loss sensitivity
+- [ ] Send updated figures to Andreas – wake loss sensitivity
+- [ ] Update out-of-office

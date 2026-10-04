@@ -1,0 +1,8 @@
+Paweł's list – September 2026
+
+- [x] Share draft with Torben – patch management report
+- [x] Check open points with Sebastian – service desk kpis
+- [ ] Review comments from Anna – patch management report
+- [x] Review comments from Paweł – change request summary
+- [x] Send updated figures to Malte – change request summary
+- [ ] Mandatory training: information security

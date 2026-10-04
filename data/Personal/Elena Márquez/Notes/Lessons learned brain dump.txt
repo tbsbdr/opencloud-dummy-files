@@ -1,0 +1,13 @@
+lessons learned - raw, sort later
+--------------------------------
+
+* weather allowance in baseline: we used 15% for Apr-Sep. Real: closer to 25%. Sep alone killed us. -> next project use P75 not P50 hindcast
+* July piling restriction = perfect maintenance window for the vessel. keep that idea.
+* bubble curtain: hose layout matters more than air volume (A04 exceedance)
+* split pin / shackle (HSE-INC-2026-018): ONE rigging supplier. mixed kit on deck = trouble
+* cable FAT: ask for witness on factory joints, not only the final HV test. we only learned about the FJ problem after the breakdown
+* resequencing decision took 5 weeks - could have been 2 if we'd had plan B pre-modelled
+* lender's TA: invite early and often, no surprises = no problems (Brennan guys were great)
+* port: get quay handover dates as hard milestones with LDs (Quay 3 was 2 weeks late)
+* comms: weekly report is read more than I thought (Halden, LTA, even Amara on Monday mornings). keep it short.
+* people: Sea Atlas crew morale after 2 weeks standby at A14 - say thank you more, and earlier. fatigue is real.

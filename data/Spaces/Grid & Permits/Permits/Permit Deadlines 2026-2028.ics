@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Weyland Energy//Grid & Permits//EN
+X-WR-CALNAME:Permit expiries and deadlines
+BEGIN:VEVENT
+UID:bw-permit-0@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20261015
+SUMMARY:Permit Register monthly review
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-1@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20261016
+SUMMARY:Millbrook amendment pack to council (MDC/2026/0412)
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-2@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Fenwick Gate 2 evidence to NordGrid (NGT-APP-2026-0739)
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-3@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Harrow Bay TRO landfall expires (TRO-2026-031)
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-4@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Kestrel Ridge waste management exemption expires
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-5@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Harrow Bay EPS licence (porpoise) expires – renew by Jan
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-6@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20270331
+SUMMARY:Annual regulatory returns due
+END:VEVENT
+BEGIN:VEVENT
+UID:bw-permit-7@weyland-energy.example
+DTSTAMP:20260928T090000Z
+DTSTART;VALUE=DATE:20280831
+SUMMARY:Kestrel Ridge water abstraction licence expires
+END:VEVENT
+END:VCALENDAR

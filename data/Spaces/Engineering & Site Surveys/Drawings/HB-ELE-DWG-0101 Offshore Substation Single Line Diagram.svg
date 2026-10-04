@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect x="0" y="0" width="1400" height="900" fill="#FFFFFF"/>
+  <rect x="10" y="10" width="1380" height="880" rx="0" fill="none" stroke="#1D2B36" stroke-width="2"/>
+  <text x="40" y="50" font-family="Arial" font-size="18" fill="#0B3C5D" text-anchor="start" font-weight="bold">HARROW BAY OFFSHORE WIND – OFFSHORE SUBSTATION HB-OSS – SINGLE LINE DIAGRAM</text>
+  <text x="40" y="72" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="start">40 × HTS-12 (480 MW)  ·  8 × 66 kV array strings  ·  2 × 300 MVA 66/220 kV transformers  ·  2 × 220 kV export cables (62 km)</text>
+  <line x1="450" y1="110" x2="450" y2="170" stroke="#1D2B36" stroke-width="3"/>
+  <text x="460" y="130" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">220 kV EXPORT CABLE 1 → Harrow Bay East</text>
+  <rect x="444.0" y="170" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="450" y1="182" x2="450" y2="200" stroke="#1D2B36" stroke-width="2"/>
+  <line x1="950" y1="110" x2="950" y2="170" stroke="#1D2B36" stroke-width="3"/>
+  <text x="960" y="130" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">220 kV EXPORT CABLE 2 → Harrow Bay East</text>
+  <rect x="944.0" y="170" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="950" y1="182" x2="950" y2="200" stroke="#1D2B36" stroke-width="2"/>
+  <line x1="300" y1="200" x2="1100" y2="200" stroke="#0B3C5D" stroke-width="5"/>
+  <text x="300" y="192" font-family="Arial" font-size="12" fill="#0B3C5D" text-anchor="start" font-weight="bold">220 kV GIS</text>
+  <line x1="450" y1="200" x2="450" y2="225" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="444.0" y="225" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="450" y1="237" x2="450" y2="255" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="450" cy="269" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <circle cx="450" cy="287" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="472" y="282" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">T1  300 MVA  220/66 kV</text>
+  <line x1="450" y1="301" x2="450" y2="330" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="444.0" y="330" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="450" y1="342" x2="450" y2="380" stroke="#1D2B36" stroke-width="2"/>
+  <line x1="330" y1="255" x2="330" y2="300" stroke="#1D2B36" stroke-width="1.5"/>
+  <rect x="315" y="300" width="30" height="40" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="300" y="360" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Shunt reactor</text>
+  <line x1="330" y1="255" x2="450" y2="255" stroke="#1D2B36" stroke-width="1.5"/>
+  <line x1="950" y1="200" x2="950" y2="225" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="944.0" y="225" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="950" y1="237" x2="950" y2="255" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="950" cy="269" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <circle cx="950" cy="287" r="14" fill="none" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="972" y="282" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">T2  300 MVA  220/66 kV</text>
+  <line x1="950" y1="301" x2="950" y2="330" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="944.0" y="330" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="950" y1="342" x2="950" y2="380" stroke="#1D2B36" stroke-width="2"/>
+  <line x1="830" y1="255" x2="830" y2="300" stroke="#1D2B36" stroke-width="1.5"/>
+  <rect x="815" y="300" width="30" height="40" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.5"/>
+  <text x="800" y="360" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Shunt reactor</text>
+  <line x1="830" y1="255" x2="950" y2="255" stroke="#1D2B36" stroke-width="1.5"/>
+  <line x1="200" y1="380" x2="680" y2="380" stroke="#0B3C5D" stroke-width="5"/>
+  <text x="200" y="372" font-family="Arial" font-size="12" fill="#0B3C5D" text-anchor="start" font-weight="bold">66 kV SWITCHGEAR – SECTION A</text>
+  <line x1="720" y1="380" x2="1200" y2="380" stroke="#0B3C5D" stroke-width="5"/>
+  <text x="720" y="372" font-family="Arial" font-size="12" fill="#0B3C5D" text-anchor="start" font-weight="bold">66 kV SWITCHGEAR – SECTION B</text>
+  <line x1="680" y1="380" x2="720" y2="380" stroke="#1D2B36" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="675" y="400" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">bus coupler (N.O.)</text>
+  <line x1="240" y1="380" x2="240" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="234.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="240" y1="422" x2="240" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="240" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="240" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="240" y1="504" x2="240" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="240" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="240" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="240" y1="556" x2="240" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="240" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="240" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="240" y1="608" x2="240" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="240" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="240" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="240" y1="660" x2="240" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="240" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="240" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="240" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S1</text>
+  <text x="240" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 01–05</text>
+  <line x1="350" y1="380" x2="350" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="344.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="350" y1="422" x2="350" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="350" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="350" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="350" y1="504" x2="350" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="350" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="350" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="350" y1="556" x2="350" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="350" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="350" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="350" y1="608" x2="350" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="350" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="350" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="350" y1="660" x2="350" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="350" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="350" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="350" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S2</text>
+  <text x="350" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 06–10</text>
+  <line x1="460" y1="380" x2="460" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="454.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="460" y1="422" x2="460" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="460" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="460" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="460" y1="504" x2="460" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="460" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="460" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="460" y1="556" x2="460" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="460" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="460" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="460" y1="608" x2="460" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="460" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="460" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="460" y1="660" x2="460" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="460" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="460" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="460" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S3</text>
+  <text x="460" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 11–15</text>
+  <line x1="570" y1="380" x2="570" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="564.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="570" y1="422" x2="570" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="570" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="570" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="570" y1="504" x2="570" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="570" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="570" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="570" y1="556" x2="570" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="570" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="570" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="570" y1="608" x2="570" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="570" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="570" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="570" y1="660" x2="570" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="570" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="570" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="570" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S4</text>
+  <text x="570" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 16–20</text>
+  <line x1="760" y1="380" x2="760" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="754.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="760" y1="422" x2="760" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="760" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="760" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="760" y1="504" x2="760" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="760" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="760" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="760" y1="556" x2="760" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="760" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="760" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="760" y1="608" x2="760" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="760" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="760" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="760" y1="660" x2="760" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="760" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="760" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="760" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S5</text>
+  <text x="760" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 21–25</text>
+  <line x1="870" y1="380" x2="870" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="864.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="870" y1="422" x2="870" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="870" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="870" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="870" y1="504" x2="870" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="870" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="870" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="870" y1="556" x2="870" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="870" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="870" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="870" y1="608" x2="870" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="870" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="870" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="870" y1="660" x2="870" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="870" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="870" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="870" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S6</text>
+  <text x="870" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 26–30</text>
+  <line x1="980" y1="380" x2="980" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="974.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="980" y1="422" x2="980" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="980" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="980" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="980" y1="504" x2="980" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="980" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="980" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="980" y1="556" x2="980" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="980" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="980" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="980" y1="608" x2="980" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="980" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="980" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="980" y1="660" x2="980" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="980" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="980" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="980" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S7</text>
+  <text x="980" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 31–35</text>
+  <line x1="1090" y1="380" x2="1090" y2="410" stroke="#1D2B36" stroke-width="2"/>
+  <rect x="1084.0" y="410" width="12" height="12" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.8"/>
+  <line x1="1090" y1="422" x2="1090" y2="470" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="1090" cy="492" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="1090" y="496" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="1090" y1="504" x2="1090" y2="532" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="1090" cy="544" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="1090" y="548" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="1090" y1="556" x2="1090" y2="584" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="1090" cy="596" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="1090" y="600" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="1090" y1="608" x2="1090" y2="636" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="1090" cy="648" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="1090" y="652" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <line x1="1090" y1="660" x2="1090" y2="688" stroke="#1D2B36" stroke-width="2"/>
+  <circle cx="1090" cy="700" r="12" fill="#EEF3F6" stroke="#1D2B36" stroke-width="1.8"/>
+  <text x="1090" y="704" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle" font-weight="bold">G</text>
+  <text x="1090" y="750" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">S8</text>
+  <text x="1090" y="766" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">WTG 36–40</text>
+  <line x1="40" y1="790" x2="330" y2="790" stroke="#1FA2A6" stroke-width="1"/>
+  <text x="40" y="810" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Notes: 66 kV array cables approx. 95 km total. Each WTG with 12 MW 66 kV step-up transformer in nacelle.</text>
+  <text x="40" y="826" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Auxiliary supply, earthing transformers and protection not shown. Ref. WE-ENG-STD-004.</text>
+  <rect x="970" y="790" width="410" height="90" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.5"/>
+  <line x1="970" y1="820" x2="1380" y2="820" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="970" y1="850" x2="1380" y2="850" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="1175" y1="820" x2="1175" y2="880" stroke="#1D2B36" stroke-width="1"/>
+  <text x="978" y="810" font-family="Arial" font-size="11" fill="#0B3C5D" text-anchor="start" font-weight="bold">WEYLAND ENERGY  ·  HARROW BAY</text>
+  <text x="978" y="840" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start" font-weight="bold">Offshore Substation SLD</text>
+  <text x="1183" y="840" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">Dwg HB-ELE-DWG-0101</text>
+  <text x="978" y="870" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Rev 3   2026-05-11   Scale NTS</text>
+  <text x="1183" y="870" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Drawn MT  Chk SL</text>
+</svg>

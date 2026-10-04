@@ -1,0 +1,8 @@
+Jack's list – March 2026
+
+- [x] Review comments from Priya – scada tag list
+- [x] Review comments from Karin – design basis review comments
+- [x] Review comments from Thomas – met mast data qa
+- [ ] Review comments from Lukas – array cable routing options
+- [x] Ask for input from Thomas – wake loss sensitivity
+- [ ] Update out-of-office

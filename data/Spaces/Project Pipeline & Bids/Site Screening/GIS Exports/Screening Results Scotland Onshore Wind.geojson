@@ -1,0 +1,246 @@
+{
+ "type": "FeatureCollection",
+ "name": "scotland_onshore_screening_2026",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Ardlochan",
+    "technology": "Onshore wind",
+    "indicative_mw": 64,
+    "score": 4.2,
+    "mean_ws_120m": 9.0,
+    "dist_grid_km": 9.6,
+    "peat": "none",
+    "status": "In pipeline"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71,
+     57.12
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Dunmore",
+    "technology": "Onshore wind",
+    "indicative_mw": 72,
+    "score": 3.9,
+    "mean_ws_120m": 8.7,
+    "dist_grid_km": 21.1,
+    "peat": "shallow",
+    "status": "In pipeline"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91,
+     56.63
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Brenna Moor",
+    "technology": "Onshore wind",
+    "indicative_mw": 56,
+    "score": 1.9,
+    "mean_ws_120m": 8.1,
+    "dist_grid_km": 21.1,
+    "peat": "shallow",
+    "status": "No-go"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.32,
+     57.41
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Glenmore",
+    "technology": "Onshore wind",
+    "indicative_mw": 48,
+    "score": 3.6,
+    "mean_ws_120m": 8.5,
+    "dist_grid_km": 18.7,
+    "peat": "shallow",
+    "status": "In pipeline"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7,
+     57.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Lammermuir Ext.",
+    "technology": "Onshore wind",
+    "indicative_mw": 40,
+    "score": 3.4,
+    "mean_ws_120m": 8.8,
+    "dist_grid_km": 20.0,
+    "peat": "shallow",
+    "status": "In pipeline"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.62,
+     55.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Kestrel Ridge Ext.",
+    "technology": "Onshore wind",
+    "indicative_mw": 25.2,
+    "score": 4.0,
+    "mean_ws_120m": 8.8,
+    "dist_grid_km": 12.7,
+    "peat": "deep",
+    "status": "In pipeline"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.85,
+     55.48
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Corrie Dubh",
+    "technology": "Onshore wind",
+    "indicative_mw": 38,
+    "score": 2.4,
+    "mean_ws_120m": 8.1,
+    "dist_grid_km": 3.0,
+    "peat": "none",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.02,
+     56.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Strath Allan",
+    "technology": "Onshore wind",
+    "indicative_mw": 30,
+    "score": 2.8,
+    "mean_ws_120m": 8.4,
+    "dist_grid_km": 13.1,
+    "peat": "none",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.85,
+     56.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Ben Raddie",
+    "technology": "Onshore wind",
+    "indicative_mw": 90,
+    "score": 2.1,
+    "mean_ws_120m": 8.2,
+    "dist_grid_km": 19.9,
+    "peat": "deep",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.95,
+     57.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Loch Aird",
+    "technology": "Onshore wind",
+    "indicative_mw": 45,
+    "score": 3.0,
+    "mean_ws_120m": 8.3,
+    "dist_grid_km": 6.8,
+    "peat": "shallow",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.62,
+     56.48
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Craigmuir",
+    "technology": "Onshore wind",
+    "indicative_mw": 34,
+    "score": 3.1,
+    "mean_ws_120m": 8.3,
+    "dist_grid_km": 2.9,
+    "peat": "deep",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.55,
+     55.62
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "site": "Moss of Tullo",
+    "technology": "Onshore wind",
+    "indicative_mw": 28,
+    "score": 2.6,
+    "mean_ws_120m": 8.6,
+    "dist_grid_km": 19.5,
+    "peat": "none",
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95,
+     57.05
+    ]
+   }
+  }
+ ]
+}

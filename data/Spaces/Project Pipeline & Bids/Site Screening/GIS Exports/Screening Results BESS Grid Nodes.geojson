@@ -1,0 +1,230 @@
+{
+ "type": "FeatureCollection",
+ "name": "bess_grid_nodes_2025",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Fenwick",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 120,
+    "status": "Selected \u2013 PL-021"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.912,
+     55.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Oakhurst",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 90,
+    "status": "PL-009"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62,
+     54.86
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Brayton Moor",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 60,
+    "status": "PL-010"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43,
+     54.72
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Eastholm",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 70,
+    "status": "PL-024"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.05,
+     54.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Humber North",
+    "voltage_kv": 275,
+    "indicative_headroom_mw": 200,
+    "status": "Lost to competitor"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.41,
+     53.74
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Kirkby Fell",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 30,
+    "status": "Low headroom"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.35,
+     54.48
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Saltmarsh",
+    "voltage_kv": 33,
+    "indicative_headroom_mw": 50,
+    "status": "Solar \u2013 PL-008"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.52,
+     52.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Westerby",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 80,
+    "status": "Solar \u2013 PL-025"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.21,
+     53.12
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Ravensworth",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 60,
+    "status": "Solar \u2013 PL-031"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.21,
+     52.62
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Coldstream",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 40,
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.25,
+     55.65
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Morpeth East",
+    "voltage_kv": 132,
+    "indicative_headroom_mw": 25,
+    "status": "Low headroom"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65,
+     55.17
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Hexley",
+    "voltage_kv": 66,
+    "indicative_headroom_mw": 20,
+    "status": "Long-list"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1,
+     54.97
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Northfield Landfall",
+    "voltage_kv": 400,
+    "indicative_headroom_mw": 300,
+    "status": "PL-034 \u2013 depends on bid"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.25,
+     54.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "node": "Tees Mouth",
+    "voltage_kv": 275,
+    "indicative_headroom_mw": 0,
+    "status": "No headroom"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.15,
+     54.62
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="860" viewBox="0 0 1300 860">
+  <rect x="0" y="0" width="1300" height="860" fill="#FFFFFF"/>
+  <rect x="10" y="10" width="1280" height="840" rx="0" fill="none" stroke="#1D2B36" stroke-width="2"/>
+  <text x="40" y="50" font-family="Arial" font-size="18" fill="#0B3C5D" text-anchor="start" font-weight="bold">FENWICK BATTERY STORAGE – CONCEPT LAYOUT 100 MW / 200 MWh</text>
+  <text x="40" y="72" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="start">Option area 6.2 ha  ·  40 battery containers (5 MWh each)  ·  20 PCS skids  ·  2 × 60 MVA 132/33 kV transformers</text>
+  <polygon points="120,110 1100,120 1110,720 130,730" fill="#F4F8EF" stroke="#5BA65B" stroke-width="2.5" stroke-dasharray="10 6"/>
+  <text x="130" y="750" font-family="Arial" font-size="11" fill="#5BA65B" text-anchor="start">Red-line boundary (option area)</text>
+  <rect x="20" y="260" width="90" height="240" rx="0" fill="#EEF3F6" stroke="#8A99A6" stroke-width="1.5"/>
+  <text x="65" y="380" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle">Existing</text>
+  <text x="65" y="395" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle">132 kV</text>
+  <text x="65" y="410" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="middle">substation</text>
+  <rect x="160" y="300" width="170" height="160" rx="0" fill="#FFFFFF" stroke="#0B3C5D" stroke-width="2"/>
+  <text x="245" y="330" font-family="Arial" font-size="12" fill="#1D2B36" text-anchor="middle" font-weight="bold">BESS substation</text>
+  <text x="245" y="350" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">2 × 60 MVA 132/33 kV</text>
+  <text x="245" y="366" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">33 kV switchroom</text>
+  <line x1="110" y1="380" x2="160" y2="380" stroke="#0B3C5D" stroke-width="3"/>
+  <rect x="380" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="420" y="228" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="446" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="446" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="552" y="228" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="578" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="578" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="684" y="228" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="710" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="710" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="816" y="228" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="842" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="842" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="948" y="228" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="974" y="170" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="974" y="200" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="420" y="348" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="446" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="446" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="552" y="348" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="578" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="578" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="684" y="348" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="710" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="710" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="816" y="348" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="842" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="842" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="948" y="348" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="974" y="290" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="974" y="320" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="420" y="468" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="446" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="446" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="552" y="468" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="578" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="578" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="684" y="468" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="710" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="710" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="816" y="468" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="842" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="842" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="948" y="468" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="974" y="410" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="974" y="440" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="380" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="420" y="588" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="446" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="446" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="512" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="552" y="588" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="578" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="578" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="644" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="684" y="588" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="710" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="710" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="776" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="816" y="588" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="842" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="842" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="908" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="948" y="588" width="40" height="16" rx="0" fill="#FFF4DA" stroke="#F2B134" stroke-width="1.2"/>
+  <rect x="974" y="530" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <rect x="974" y="560" width="52" height="22" rx="0" fill="#FFFFFF" stroke="#1FA2A6" stroke-width="1.5"/>
+  <text x="380" y="158" font-family="Arial" font-size="11" fill="#1FA2A6" text-anchor="start">Battery containers (LFP, 5 MWh each) with PCS skids</text>
+  <rect x="160" y="520" width="120" height="70" rx="0" fill="#DCEBF5" stroke="#0B3C5D" stroke-width="1.5"/>
+  <text x="220" y="552" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">Fire water</text>
+  <text x="220" y="567" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">tank 250 m³</text>
+  <rect x="160" y="610" width="120" height="60" rx="20" fill="#DCEBF5" stroke="#8A99A6" stroke-width="1.5"/>
+  <text x="220" y="645" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="middle">Attenuation pond</text>
+  <line x1="1110" y1="650" x2="1250" y2="670" stroke="#B8A27A" stroke-width="6"/>
+  <text x="1140" y="700" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Access track from C-road</text>
+  <line x1="140" y1="100" x2="1120" y2="110" stroke="#5BA65B" stroke-width="10"/>
+  <text x="600" y="98" font-family="Arial" font-size="10" fill="#2F6B2F" text-anchor="middle">Landscape bund with native hedgerow planting</text>
+  <line x1="1130" y1="120" x2="1140" y2="730" stroke="#E4572E" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <text x="1150" y="400" font-family="Arial" font-size="10" fill="#E4572E" text-anchor="start">Public footpath</text>
+  <text x="1150" y="414" font-family="Arial" font-size="10" fill="#E4572E" text-anchor="start">(10 m buffer)</text>
+  <polygon points="120,640 200,730 130,730" fill="none" stroke="#E4572E" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="40" y="790" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Concept only. Container spacing per WE-ENG-GDL-007 (≥ 3 m). Fire service consultation pending.</text>
+  <rect x="870" y="750" width="410" height="90" rx="0" fill="#FFFFFF" stroke="#1D2B36" stroke-width="1.5"/>
+  <line x1="870" y1="780" x2="1280" y2="780" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="870" y1="810" x2="1280" y2="810" stroke="#1D2B36" stroke-width="1"/>
+  <line x1="1075" y1="780" x2="1075" y2="840" stroke="#1D2B36" stroke-width="1"/>
+  <text x="878" y="770" font-family="Arial" font-size="11" fill="#0B3C5D" text-anchor="start" font-weight="bold">WEYLAND ENERGY  ·  FENWICK BESS</text>
+  <text x="878" y="800" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start" font-weight="bold">Concept layout</text>
+  <text x="1083" y="800" font-family="Arial" font-size="11" fill="#1D2B36" text-anchor="start">Dwg FW-GEN-DWG-0001</text>
+  <text x="878" y="830" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Rev A   2026-08-21   Scale NTS</text>
+  <text x="1083" y="830" font-family="Arial" font-size="10" fill="#1D2B36" text-anchor="start">Drawn KM  Chk SL</text>
+</svg>

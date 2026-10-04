@@ -1,0 +1,141 @@
+event_id,asset,start,end,instruction_source,setpoint_mw,curtailed_mwh,compensation
+CUR-26-0001,Kestrel Ridge,2026-01-04 13:00,2026-01-04 18:00,UK constraint,22.7,189.9,bid price
+CUR-26-0002,Kestrel Ridge,2026-01-11 15:00,2026-01-11 20:00,UK constraint,34.0,65.4,bid price
+CUR-26-0003,Nordheide,2026-01-19 14:00,2026-01-19 18:00,Redispatch 2.0,71.3,107.2,RD2.0 claim
+CUR-26-0004,Skerrow Moor,2026-01-21 09:00,2026-01-21 11:00,UK constraint,28.8,55.7,bid price
+CUR-26-0005,Wesermarsch,2026-01-21 09:00,2026-01-21 12:00,Redispatch 2.0,0.0,86.2,RD2.0 claim
+CUR-26-0006,Nordheide,2026-01-21 17:00,2026-01-21 18:00,Redispatch 2.0,35.6,28.8,RD2.0 claim
+CUR-26-0007,Skerrow Moor,2026-01-22 12:00,2026-01-22 13:00,UK constraint,57.6,15.4,bid price
+CUR-26-0008,Kestrel Ridge,2026-01-24 13:00,2026-01-24 15:00,UK constraint,0.0,118.2,bid price
+CUR-26-0009,Wesermarsch,2026-01-26 06:00,2026-01-26 11:00,Redispatch 2.0,50.4,73.5,RD2.0 claim
+CUR-26-0010,Nordheide,2026-01-26 16:00,2026-01-26 20:00,Redispatch 2.0,53.5,129.9,RD2.0 claim
+CUR-26-0011,Nordheide,2026-01-27 00:00,2026-01-27 04:00,Redispatch 2.0,53.5,80.5,RD2.0 claim
+CUR-26-0012,Skerrow Moor,2026-01-27 19:00,2026-01-27 23:00,UK constraint,43.2,143.9,bid price
+CUR-26-0013,Nordheide,2026-01-28 12:00,2026-01-28 18:00,Redispatch 2.0,71.3,97.3,RD2.0 claim
+CUR-26-0014,Nordheide,2026-02-02 18:00,2026-02-02 23:00,Redispatch 2.0,71.3,145.5,RD2.0 claim
+CUR-26-0015,Wesermarsch,2026-02-06 13:00,2026-02-06 19:00,Redispatch 2.0,50.4,144.2,RD2.0 claim
+CUR-26-0016,Nordheide,2026-02-09 20:00,2026-02-09 23:00,Redispatch 2.0,0.0,236.4,RD2.0 claim
+CUR-26-0017,Wesermarsch,2026-02-11 03:00,2026-02-11 06:00,Redispatch 2.0,37.8,49.3,RD2.0 claim
+CUR-26-0018,Nordheide,2026-02-12 22:00,2026-02-12 23:00,Redispatch 2.0,0.0,399.8,RD2.0 claim
+CUR-26-0019,Wesermarsch,2026-02-20 08:00,2026-02-20 12:00,Redispatch 2.0,0.0,154.6,RD2.0 claim
+CUR-26-0020,Kestrel Ridge,2026-02-23 03:00,2026-02-23 09:00,UK constraint,45.4,91.3,bid price
+CUR-26-0021,Kestrel Ridge,2026-02-26 04:00,2026-02-26 06:00,UK constraint,34.0,33.5,bid price
+CUR-26-0022,Nordheide,2026-02-26 05:00,2026-02-26 06:00,Redispatch 2.0,0.0,92.1,RD2.0 claim
+CUR-26-0023,Nordheide,2026-02-28 06:00,2026-02-28 08:00,Redispatch 2.0,71.3,32.9,RD2.0 claim
+CUR-26-0024,Lüneburger Heide Solar,2026-03-02 12:00,2026-03-02 13:00,Negative price,0,33.5,none
+CUR-26-0025,Nordheide,2026-03-04 13:00,2026-03-04 17:00,Redispatch 2.0,53.5,128.0,RD2.0 claim
+CUR-26-0026,Lüneburger Heide Solar,2026-03-04 15:00,2026-03-04 17:00,Negative price,0,140.8,none
+CUR-26-0027,Lüneburger Heide Solar,2026-03-06 12:00,2026-03-06 14:00,Negative price,0,122.8,none
+CUR-26-0028,Skerrow Moor,2026-03-06 21:00,2026-03-06 23:00,UK constraint,57.6,112.1,bid price
+CUR-26-0029,Lüneburger Heide Solar,2026-03-08 12:00,2026-03-08 13:00,Negative price,0,29.3,none
+CUR-26-0030,Skerrow Moor,2026-03-09 22:00,2026-03-09 23:00,UK constraint,43.2,20.7,bid price
+CUR-26-0031,Kestrel Ridge,2026-03-11 04:00,2026-03-11 07:00,UK constraint,0.0,141.5,bid price
+CUR-26-0032,Nordheide,2026-03-11 11:00,2026-03-11 13:00,Redispatch 2.0,71.3,40.5,RD2.0 claim
+CUR-26-0033,Uckermark Solar,2026-03-12 11:00,2026-03-12 16:00,Negative price,0,398.7,none
+CUR-26-0034,Lüneburger Heide Solar,2026-03-13 16:00,2026-03-13 17:00,Negative price,0,31.9,none
+CUR-26-0035,Kestrel Ridge,2026-03-13 17:00,2026-03-13 22:00,UK constraint,0.0,258.3,bid price
+CUR-26-0036,Wesermarsch,2026-03-14 10:00,2026-03-14 15:00,Redispatch 2.0,0.0,127.6,RD2.0 claim
+CUR-26-0037,Uckermark Solar,2026-03-21 13:00,2026-03-21 15:00,Negative price,0,101.0,none
+CUR-26-0038,Kestrel Ridge,2026-03-24 15:00,2026-03-24 19:00,UK constraint,0.0,163.7,bid price
+CUR-26-0039,Wesermarsch,2026-03-25 01:00,2026-03-25 02:00,Redispatch 2.0,25.2,46.2,RD2.0 claim
+CUR-26-0040,Nordheide,2026-03-26 21:00,2026-03-26 23:00,Redispatch 2.0,0.0,358.8,RD2.0 claim
+CUR-26-0041,Lüneburger Heide Solar,2026-03-28 09:00,2026-03-28 13:00,Negative price,0,185.9,none
+CUR-26-0042,Uckermark Solar,2026-04-03 15:00,2026-04-03 16:00,Negative price,0,72.6,none
+CUR-26-0043,Uckermark Solar,2026-04-04 16:00,2026-04-04 20:00,Negative price,0,290.8,none
+CUR-26-0044,Kestrel Ridge,2026-04-08 00:00,2026-04-08 05:00,UK constraint,22.7,129.1,bid price
+CUR-26-0045,Uckermark Solar,2026-04-09 12:00,2026-04-09 16:00,Negative price,0,453.2,none
+CUR-26-0046,Lüneburger Heide Solar,2026-04-11 16:00,2026-04-11 21:00,Negative price,0,211.1,none
+CUR-26-0047,Wesermarsch,2026-04-14 02:00,2026-04-14 04:00,Redispatch 2.0,37.8,36.1,RD2.0 claim
+CUR-26-0048,Lüneburger Heide Solar,2026-04-14 09:00,2026-04-14 13:00,Negative price,0,114.2,none
+CUR-26-0049,Wesermarsch,2026-04-14 19:00,2026-04-14 23:00,Redispatch 2.0,25.2,79.7,RD2.0 claim
+CUR-26-0050,Kestrel Ridge,2026-04-19 15:00,2026-04-19 17:00,UK constraint,34.0,42.4,bid price
+CUR-26-0051,Nordheide,2026-04-21 12:00,2026-04-21 13:00,Redispatch 2.0,35.6,45.4,RD2.0 claim
+CUR-26-0052,Kestrel Ridge,2026-04-22 00:00,2026-04-22 03:00,UK constraint,0.0,134.2,bid price
+CUR-26-0053,Skerrow Moor,2026-04-27 05:00,2026-04-27 10:00,UK constraint,28.8,158.5,bid price
+CUR-26-0054,Skerrow Moor,2026-04-28 18:00,2026-04-28 19:00,UK constraint,57.6,12.3,bid price
+CUR-26-0055,Uckermark Solar,2026-05-02 16:00,2026-05-02 20:00,Negative price,0,393.1,none
+CUR-26-0056,Nordheide,2026-05-05 10:00,2026-05-05 11:00,Redispatch 2.0,0.0,85.7,RD2.0 claim
+CUR-26-0057,Lüneburger Heide Solar,2026-05-06 15:00,2026-05-06 18:00,Negative price,0,141.8,none
+CUR-26-0058,Kestrel Ridge,2026-05-08 19:00,2026-05-08 22:00,UK constraint,34.0,59.0,bid price
+CUR-26-0059,Nordheide,2026-05-09 08:00,2026-05-09 12:00,Redispatch 2.0,53.5,192.5,RD2.0 claim
+CUR-26-0060,Wesermarsch,2026-05-10 18:00,2026-05-10 22:00,Redispatch 2.0,50.4,75.3,RD2.0 claim
+CUR-26-0061,Kestrel Ridge,2026-05-11 05:00,2026-05-11 07:00,UK constraint,34.0,58.5,bid price
+CUR-26-0062,Kestrel Ridge,2026-05-13 18:00,2026-05-13 19:00,UK constraint,22.7,29.1,bid price
+CUR-26-0063,Uckermark Solar,2026-05-15 10:00,2026-05-15 12:00,Negative price,0,236.5,none
+CUR-26-0064,Kestrel Ridge,2026-05-15 22:00,2026-05-15 23:00,UK constraint,45.4,57.4,bid price
+CUR-26-0065,Nordheide,2026-05-16 03:00,2026-05-16 08:00,Redispatch 2.0,53.5,228.3,RD2.0 claim
+CUR-26-0066,Lüneburger Heide Solar,2026-05-18 13:00,2026-05-18 14:00,Negative price,0,33.8,none
+CUR-26-0067,Lüneburger Heide Solar,2026-05-18 14:00,2026-05-18 15:00,Negative price,0,31.1,none
+CUR-26-0068,Lüneburger Heide Solar,2026-05-20 09:00,2026-05-20 11:00,Negative price,0,143.9,none
+CUR-26-0069,Skerrow Moor,2026-05-20 16:00,2026-05-20 17:00,UK constraint,0.0,61.4,bid price
+CUR-26-0070,Kestrel Ridge,2026-05-21 10:00,2026-05-21 11:00,UK constraint,22.7,26.7,bid price
+CUR-26-0071,Skerrow Moor,2026-05-22 05:00,2026-05-22 11:00,UK constraint,28.8,261.3,bid price
+CUR-26-0072,Wesermarsch,2026-05-23 06:00,2026-05-23 07:00,Redispatch 2.0,0.0,65.8,RD2.0 claim
+CUR-26-0073,Kestrel Ridge,2026-06-01 01:00,2026-06-01 06:00,UK constraint,0.0,214.3,bid price
+CUR-26-0074,Uckermark Solar,2026-06-03 09:00,2026-06-03 10:00,Negative price,0,104.1,none
+CUR-26-0075,Uckermark Solar,2026-06-07 10:00,2026-06-07 14:00,Negative price,0,277.0,none
+CUR-26-0076,Wesermarsch,2026-06-08 02:00,2026-06-08 03:00,Redispatch 2.0,50.4,21.4,RD2.0 claim
+CUR-26-0077,Uckermark Solar,2026-06-10 16:00,2026-06-10 19:00,Negative price,0,204.5,none
+CUR-26-0078,Wesermarsch,2026-06-11 21:00,2026-06-11 23:00,Redispatch 2.0,37.8,100.8,RD2.0 claim
+CUR-26-0079,Lüneburger Heide Solar,2026-06-13 09:00,2026-06-13 15:00,Negative price,0,277.4,none
+CUR-26-0080,Wesermarsch,2026-06-16 06:00,2026-06-16 10:00,Redispatch 2.0,37.8,63.8,RD2.0 claim
+CUR-26-0081,Lüneburger Heide Solar,2026-06-17 09:00,2026-06-17 10:00,Negative price,0,37.6,none
+CUR-26-0082,Wesermarsch,2026-06-17 10:00,2026-06-17 13:00,Redispatch 2.0,50.4,61.3,RD2.0 claim
+CUR-26-0083,Uckermark Solar,2026-06-17 13:00,2026-06-17 18:00,Negative price,0,410.1,none
+CUR-26-0084,Skerrow Moor,2026-06-20 13:00,2026-06-20 17:00,UK constraint,0.0,212.0,bid price
+CUR-26-0085,Skerrow Moor,2026-06-22 06:00,2026-06-22 08:00,UK constraint,43.2,61.0,bid price
+CUR-26-0086,Lüneburger Heide Solar,2026-06-22 10:00,2026-06-22 11:00,Negative price,0,27.8,none
+CUR-26-0087,Kestrel Ridge,2026-06-23 16:00,2026-06-23 19:00,UK constraint,45.4,68.3,bid price
+CUR-26-0088,Skerrow Moor,2026-06-24 17:00,2026-06-24 23:00,UK constraint,28.8,314.4,bid price
+CUR-26-0089,Skerrow Moor,2026-06-27 00:00,2026-06-27 06:00,UK constraint,43.2,171.7,bid price
+CUR-26-0090,Nordheide,2026-06-28 09:00,2026-06-28 13:00,Redispatch 2.0,35.6,108.5,RD2.0 claim
+CUR-26-0091,Skerrow Moor,2026-07-02 03:00,2026-07-02 06:00,UK constraint,43.2,106.2,bid price
+CUR-26-0092,Lüneburger Heide Solar,2026-07-03 13:00,2026-07-03 17:00,Negative price,0,117.7,none
+CUR-26-0093,Wesermarsch,2026-07-09 10:00,2026-07-09 13:00,Redispatch 2.0,0.0,166.7,RD2.0 claim
+CUR-26-0094,Wesermarsch,2026-07-09 13:00,2026-07-09 15:00,Redispatch 2.0,50.4,41.9,RD2.0 claim
+CUR-26-0095,Lüneburger Heide Solar,2026-07-09 14:00,2026-07-09 17:00,Negative price,0,117.0,none
+CUR-26-0096,Kestrel Ridge,2026-07-09 17:00,2026-07-09 23:00,UK constraint,0.0,228.5,bid price
+CUR-26-0097,Uckermark Solar,2026-07-11 16:00,2026-07-11 20:00,Negative price,0,193.4,none
+CUR-26-0098,Kestrel Ridge,2026-07-16 04:00,2026-07-16 08:00,UK constraint,0.0,128.3,bid price
+CUR-26-0099,Skerrow Moor,2026-07-20 11:00,2026-07-20 15:00,UK constraint,43.2,152.7,bid price
+CUR-26-0100,Uckermark Solar,2026-07-23 13:00,2026-07-23 14:00,Negative price,0,107.0,none
+CUR-26-0101,Kestrel Ridge,2026-07-23 14:00,2026-07-23 19:00,UK constraint,22.7,151.0,bid price
+CUR-26-0102,Kestrel Ridge,2026-07-24 11:00,2026-07-24 15:00,UK constraint,45.4,47.3,bid price
+CUR-26-0103,Wesermarsch,2026-07-26 06:00,2026-07-26 10:00,Redispatch 2.0,50.4,93.0,RD2.0 claim
+CUR-26-0104,Skerrow Moor,2026-07-26 13:00,2026-07-26 15:00,UK constraint,57.6,61.0,bid price
+CUR-26-0105,Lüneburger Heide Solar,2026-07-26 16:00,2026-07-26 20:00,Negative price,0,251.5,none
+CUR-26-0106,Lüneburger Heide Solar,2026-08-01 09:00,2026-08-01 12:00,Negative price,0,106.4,none
+CUR-26-0107,Wesermarsch,2026-08-01 21:00,2026-08-01 22:00,Redispatch 2.0,37.8,31.0,RD2.0 claim
+CUR-26-0108,Nordheide,2026-08-02 17:00,2026-08-02 18:00,Redispatch 2.0,35.6,45.2,RD2.0 claim
+CUR-26-0109,Nordheide,2026-08-07 06:00,2026-08-07 09:00,Redispatch 2.0,0.0,196.1,RD2.0 claim
+CUR-26-0110,Uckermark Solar,2026-08-07 15:00,2026-08-07 20:00,Negative price,0,449.9,none
+CUR-26-0111,Skerrow Moor,2026-08-13 09:00,2026-08-13 12:00,UK constraint,43.2,70.3,bid price
+CUR-26-0112,Nordheide,2026-08-16 15:00,2026-08-16 17:00,Redispatch 2.0,71.3,66.2,RD2.0 claim
+CUR-26-0113,Kestrel Ridge,2026-08-19 06:00,2026-08-19 12:00,UK constraint,34.0,184.0,bid price
+CUR-26-0114,Kestrel Ridge,2026-08-19 11:00,2026-08-19 12:00,UK constraint,0.0,51.9,bid price
+CUR-26-0115,Skerrow Moor,2026-08-21 12:00,2026-08-21 15:00,UK constraint,0.0,128.0,bid price
+CUR-26-0116,Lüneburger Heide Solar,2026-08-21 13:00,2026-08-21 14:00,Negative price,0,70.9,none
+CUR-26-0117,Nordheide,2026-08-24 18:00,2026-08-24 21:00,Redispatch 2.0,71.3,77.2,RD2.0 claim
+CUR-26-0118,Nordheide,2026-09-03 17:00,2026-09-03 22:00,Redispatch 2.0,35.6,269.4,RD2.0 claim
+CUR-26-0119,Skerrow Moor,2026-09-04 06:00,2026-09-04 11:00,UK constraint,57.6,98.1,bid price
+CUR-26-0120,Nordheide,2026-09-04 11:00,2026-09-04 14:00,Redispatch 2.0,71.3,103.6,RD2.0 claim
+CUR-26-0121,Uckermark Solar,2026-09-06 11:00,2026-09-06 15:00,Negative price,0,312.3,none
+CUR-26-0122,Uckermark Solar,2026-09-08 15:00,2026-09-08 21:00,Negative price,0,609.4,none
+CUR-26-0123,Kestrel Ridge,2026-09-11 03:00,2026-09-11 05:00,UK constraint,0.0,82.1,bid price
+CUR-26-0124,Skerrow Moor,2026-09-11 06:00,2026-09-11 07:00,UK constraint,28.8,30.4,bid price
+CUR-26-0125,Skerrow Moor,2026-09-12 21:00,2026-09-12 23:00,UK constraint,0.0,62.5,bid price
+CUR-26-0126,Uckermark Solar,2026-09-13 11:00,2026-09-13 13:00,Negative price,0,196.5,none
+CUR-26-0127,Wesermarsch,2026-09-13 17:00,2026-09-13 23:00,Redispatch 2.0,37.8,124.9,RD2.0 claim
+CUR-26-0128,Nordheide,2026-09-15 07:00,2026-09-15 08:00,Redispatch 2.0,53.5,48.3,RD2.0 claim
+CUR-26-0129,Lüneburger Heide Solar,2026-09-15 14:00,2026-09-15 20:00,Negative price,0,255.9,none
+CUR-26-0130,Lüneburger Heide Solar,2026-09-18 16:00,2026-09-18 22:00,Negative price,0,384.7,none
+CUR-26-0131,Kestrel Ridge,2026-09-19 20:00,2026-09-19 22:00,UK constraint,0.0,74.8,bid price
+CUR-26-0132,Lüneburger Heide Solar,2026-09-20 13:00,2026-09-20 19:00,Negative price,0,419.6,none
+CUR-26-0133,Uckermark Solar,2026-09-20 15:00,2026-09-20 16:00,Negative price,0,95.2,none
+CUR-26-0134,Uckermark Solar,2026-09-21 13:00,2026-09-21 17:00,Negative price,0,318.8,none
+CUR-26-0135,Skerrow Moor,2026-09-21 14:00,2026-09-21 16:00,UK constraint,0.0,58.6,bid price
+CUR-26-0136,Skerrow Moor,2026-09-21 15:00,2026-09-21 16:00,UK constraint,0.0,44.0,bid price
+CUR-26-0137,Uckermark Solar,2026-09-23 13:00,2026-09-23 17:00,Negative price,0,449.5,none
+CUR-26-0138,Kestrel Ridge,2026-09-26 11:00,2026-09-26 17:00,UK constraint,34.0,128.3,bid price
+CUR-26-0139,Nordheide,2026-09-28 03:00,2026-09-28 05:00,Redispatch 2.0,71.3,50.4,RD2.0 claim
+CUR-26-0140,Kestrel Ridge,2026-09-28 18:00,2026-09-28 22:00,UK constraint,45.4,92.2,bid price

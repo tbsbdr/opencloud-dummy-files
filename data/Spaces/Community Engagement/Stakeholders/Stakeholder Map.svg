@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" font-family="Arial" font-size="12">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="36" font-size="20" font-weight="bold" fill="#0B3C5D">Stakeholder map – influence vs interest (Sept 2026)</text>
+<rect x="80" y="70" width="420" height="300" fill="#EEF3F6"/><rect x="500" y="70" width="420" height="300" fill="#FDF1DA"/>
+<rect x="80" y="370" width="420" height="300" fill="#F7F9FA"/><rect x="500" y="370" width="420" height="300" fill="#E6F4F4"/>
+<text x="90" y="90" fill="#4A5A68">Keep satisfied</text><text x="510" y="90" fill="#4A5A68" font-weight="bold">Manage closely</text>
+<text x="90" y="660" fill="#4A5A68">Monitor</text><text x="510" y="660" fill="#4A5A68">Keep informed</text>
+<text x="420" y="710" fill="#0B3C5D" font-weight="bold">Interest →</text>
+<text x="40" y="380" fill="#0B3C5D" font-weight="bold" transform="rotate(-90 40 380)">Influence →</text>
+<circle cx="836" cy="250" r="6" fill="#1FA2A6"/><text x="845" y="254">Millbrook Parish Council</text>
+<circle cx="668" cy="130" r="6" fill="#1FA2A6"/><text x="677" y="134">Millbrook District Council – p</text>
+<circle cx="668" cy="250" r="6" fill="#1FA2A6"/><text x="677" y="254">Ward councillor Millbrook Nort</text>
+<circle cx="836" cy="370" r="6" fill="#1FA2A6"/><text x="845" y="374">Mill Lane Cottages residents</text>
+<circle cx="668" cy="490" r="6" fill="#1FA2A6"/><text x="677" y="494">Millbrook CE Primary School</text>
+<circle cx="846" cy="386" r="6" fill="#1FA2A6"/><text x="855" y="390">Friends of Millbrook Countrysi</text>
+<circle cx="678" cy="506" r="6" fill="#1FA2A6"/><text x="687" y="510">Millbrook Ramblers</text>
+<circle cx="856" cy="402" r="6" fill="#1FA2A6"/><text x="865" y="406">Ashcombe Farm</text>
+<circle cx="866" cy="418" r="6" fill="#1FA2A6"/><text x="875" y="422">Hollins Farm Partnership</text>
+<circle cx="836" cy="490" r="6" fill="#1FA2A6"/><text x="845" y="494">Millbrook Climate Action</text>
+<circle cx="668" cy="370" r="6" fill="#1FA2A6"/><text x="677" y="374">Local RSPB group</text>
+<circle cx="678" cy="386" r="6" fill="#5BA65B"/><text x="687" y="390">Glenhope Community Council</text>
+<circle cx="688" cy="402" r="6" fill="#5BA65B"/><text x="697" y="406">Lowmoor Community Council</text>
+<circle cx="876" cy="434" r="6" fill="#5BA65B"/><text x="885" y="438">Kestrel Ridge Community Fund p</text>
+<circle cx="500" cy="490" r="6" fill="#5BA65B"/><text x="509" y="494">Highline Wind Services site te</text>
+<circle cx="846" cy="266" r="6" fill="#0B3C5D"/><text x="855" y="270">Harrow Bay Fishermen's Associa</text>
+<circle cx="886" cy="450" r="6" fill="#0B3C5D"/><text x="895" y="454">Eastholm Inshore Fishing Group</text>
+<circle cx="678" cy="266" r="6" fill="#0B3C5D"/><text x="687" y="270">Port of Eastholm</text>
+<circle cx="698" cy="418" r="6" fill="#0B3C5D"/><text x="707" y="422">Harrow Bay Town Council</text>
+<circle cx="510" cy="506" r="6" fill="#0B3C5D"/><text x="519" y="510">Harrow Bay lifeboat station</text>
+<circle cx="500" cy="370" r="6" fill="#F2B134"/><text x="509" y="374">Fenwick Community Council</text>
+<circle cx="510" cy="386" r="6" fill="#E4572E"/><text x="519" y="390">Regional newspaper</text>
+<circle cx="90" cy="735" r="6" fill="#1FA2A6"/><text x="100" y="739">Millbrook</text>
+<circle cx="240" cy="735" r="6" fill="#5BA65B"/><text x="250" y="739">Kestrel Ridge</text>
+<circle cx="390" cy="735" r="6" fill="#0B3C5D"/><text x="400" y="739">Harrow Bay</text>
+<circle cx="540" cy="735" r="6" fill="#F2B134"/><text x="550" y="739">Fenwick</text>
+<circle cx="690" cy="735" r="6" fill="#E4572E"/><text x="700" y="739">All</text>
+</svg>

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "name": "FW_site_boundary",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FW-SITE",
+        "name": "Fenwick BESS \u2013 option area",
+        "area_ha": 6.2,
+        "landowner": "Hallam Farms Partnership",
+        "status": "Option signed 2026-04-30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.9132,
+              55.1021
+            ],
+            [
+              -1.9085,
+              55.1024
+            ],
+            [
+              -1.9081,
+              55.0989
+            ],
+            [
+              -1.9129,
+              55.0985
+            ],
+            [
+              -1.9132,
+              55.1021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FW-SUB",
+        "name": "Fenwick 132 kV substation (existing)",
+        "owner": "NordGrid Transmission"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.9152,
+              55.1015
+            ],
+            [
+              -1.9134,
+              55.1016
+            ],
+            [
+              -1.9134,
+              55.0998
+            ],
+            [
+              -1.9152,
+              55.0997
+            ],
+            [
+              -1.9152,
+              55.1015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FW-ACCESS",
+        "name": "Access track (to be widened to 6 m)",
+        "length_m": 180
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9081,
+            55.0995
+          ],
+          [
+            -1.9062,
+            55.0991
+          ],
+          [
+            -1.9058,
+            55.0981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FW-PROW",
+        "name": "Public footpath (10 m buffer)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9078,
+            55.103
+          ],
+          [
+            -1.9079,
+            55.098
+          ]
+        ]
+      }
+    }
+  ]
+}

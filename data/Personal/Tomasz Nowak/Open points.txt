@@ -1,0 +1,8 @@
+Tomasz's list – October 2026
+
+- [x] Check open points with Sindre – backup restore test
+- [ ] Ask for input from Ingrid – phishing simulation results
+- [ ] Prepare slides for Hiroshi – laptop rollout plan
+- [ ] Send updated figures to Sophie – opencloud migration tasks
+- [ ] Send updated figures to Euan – iso 27001 control evidence
+- [ ] Submit timesheet

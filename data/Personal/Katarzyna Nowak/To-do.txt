@@ -1,0 +1,8 @@
+Katarzyna's list – September 2026
+
+- [x] Ask for input from Jonas – iso 27001 control evidence
+- [ ] Confirm dates with Ole – iso 27001 control evidence
+- [ ] Share draft with Tariq – phishing simulation results
+- [ ] Review comments from Sindre – backup restore test
+- [ ] Send updated figures to Sophie – phishing simulation results
+- [ ] Book travel

@@ -1,0 +1,757 @@
+{
+ "type": "FeatureCollection",
+ "name": "harrow_bay_layout_export_cables",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Export cable 1",
+    "voltage_kv": 220,
+    "length_km": 62.0,
+    "status": "Manufactured – awaiting load-out"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.142,
+      53.958
+     ],
+     [
+      1.02,
+      53.951
+     ],
+     [
+      0.86,
+      53.934
+     ],
+     [
+      0.71,
+      53.912
+     ],
+     [
+      0.55,
+      53.889
+     ],
+     [
+      0.402,
+      53.861
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Export cable 2",
+    "voltage_kv": 220,
+    "length_km": 62.0,
+    "status": "Delayed – re-manufacture of 9 km section (HB-RISK-017)"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.144,
+      53.957
+     ],
+     [
+      1.022,
+      53.948
+     ],
+     [
+      0.862,
+      53.931
+     ],
+     [
+      0.712,
+      53.909
+     ],
+     [
+      0.552,
+      53.886
+     ],
+     [
+      0.404,
+      53.859
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-OSS",
+    "type": "Offshore substation",
+    "topside_installed": "2026-08-19"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.142,
+     53.958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Landfall Harrow Bay",
+    "type": "HDD landfall"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.402,
+     53.861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A01",
+    "type": "WTG foundation",
+    "water_depth_m": 28.6,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.031,
+     53.912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A02",
+    "type": "WTG foundation",
+    "water_depth_m": 29.3,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0478,
+     53.9141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A03",
+    "type": "WTG foundation",
+    "water_depth_m": 29.6,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0646,
+     53.9162
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A04",
+    "type": "WTG foundation",
+    "water_depth_m": 30.3,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0814,
+     53.9183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A05",
+    "type": "WTG foundation",
+    "water_depth_m": 30.6,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0982,
+     53.9204
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A06",
+    "type": "WTG foundation",
+    "water_depth_m": 31.3,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.115,
+     53.9225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A07",
+    "type": "WTG foundation",
+    "water_depth_m": 32.0,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1318,
+     53.9246
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A08",
+    "type": "WTG foundation",
+    "water_depth_m": 32.3,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1486,
+     53.9267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A09",
+    "type": "WTG foundation",
+    "water_depth_m": 33.0,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1654,
+     53.9288
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A10",
+    "type": "WTG foundation",
+    "water_depth_m": 33.4,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1822,
+     53.9309
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A11",
+    "type": "WTG foundation",
+    "water_depth_m": 34.1,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.199,
+     53.933
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A12",
+    "type": "WTG foundation",
+    "water_depth_m": 34.8,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2158,
+     53.9351
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A13",
+    "type": "WTG foundation",
+    "water_depth_m": 35.1,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2326,
+     53.9372
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-A14",
+    "type": "WTG foundation",
+    "water_depth_m": 35.8,
+    "status": "Installed"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2494,
+     53.9393
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B01",
+    "type": "WTG foundation",
+    "water_depth_m": 30.3,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0394,
+     53.943
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B02",
+    "type": "WTG foundation",
+    "water_depth_m": 30.8,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0562,
+     53.9451
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B03",
+    "type": "WTG foundation",
+    "water_depth_m": 31.0,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.073,
+     53.9472
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B04",
+    "type": "WTG foundation",
+    "water_depth_m": 31.6,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0898,
+     53.9493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B05",
+    "type": "WTG foundation",
+    "water_depth_m": 31.8,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1066,
+     53.9514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B06",
+    "type": "WTG foundation",
+    "water_depth_m": 32.4,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1234,
+     53.9535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B07",
+    "type": "WTG foundation",
+    "water_depth_m": 32.9,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1402,
+     53.9556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B08",
+    "type": "WTG foundation",
+    "water_depth_m": 33.1,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.157,
+     53.9577
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B09",
+    "type": "WTG foundation",
+    "water_depth_m": 33.7,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1738,
+     53.9598
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B10",
+    "type": "WTG foundation",
+    "water_depth_m": 33.9,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1906,
+     53.9619
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B11",
+    "type": "WTG foundation",
+    "water_depth_m": 34.5,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2074,
+     53.964
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B12",
+    "type": "WTG foundation",
+    "water_depth_m": 35.0,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2242,
+     53.9661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-B13",
+    "type": "WTG foundation",
+    "water_depth_m": 35.2,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.241,
+     53.9682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C01",
+    "type": "WTG foundation",
+    "water_depth_m": 31.8,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.031,
+     53.974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C02",
+    "type": "WTG foundation",
+    "water_depth_m": 32.3,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0478,
+     53.9761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C03",
+    "type": "WTG foundation",
+    "water_depth_m": 32.4,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0646,
+     53.9782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C04",
+    "type": "WTG foundation",
+    "water_depth_m": 32.9,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0814,
+     53.9803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C05",
+    "type": "WTG foundation",
+    "water_depth_m": 33.0,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0982,
+     53.9824
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C06",
+    "type": "WTG foundation",
+    "water_depth_m": 33.6,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.115,
+     53.9845
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C07",
+    "type": "WTG foundation",
+    "water_depth_m": 34.1,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1318,
+     53.9866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C08",
+    "type": "WTG foundation",
+    "water_depth_m": 34.2,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1486,
+     53.9887
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C09",
+    "type": "WTG foundation",
+    "water_depth_m": 34.7,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1654,
+     53.9908
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C10",
+    "type": "WTG foundation",
+    "water_depth_m": 34.8,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1822,
+     53.9929
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C11",
+    "type": "WTG foundation",
+    "water_depth_m": 35.4,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.199,
+     53.995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C12",
+    "type": "WTG foundation",
+    "water_depth_m": 35.9,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2158,
+     53.9971
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HB-C13",
+    "type": "WTG foundation",
+    "water_depth_m": 36.0,
+    "status": "Planned"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2326,
+     53.9992
+    ]
+   }
+  }
+ ]
+}

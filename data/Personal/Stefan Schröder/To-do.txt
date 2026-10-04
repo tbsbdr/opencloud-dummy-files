@@ -1,0 +1,8 @@
+Stefan's list – June 2026
+
+- [x] Prepare slides for Katharina – service desk kpis
+- [ ] Send updated figures to Paweł – service desk kpis
+- [ ] Check open points with Torben – change request summary
+- [ ] Confirm dates with Nadine – patch management report
+- [x] Book follow-up meeting with Thomas – service desk kpis
+- [ ] Mandatory training: information security
