@@ -15,30 +15,16 @@ python3 populate.py
 The script asks for three things – press **Enter** to accept the default:
 
 ```
-OpenCloud URL   [https://host.docker.internal:9200]
-Admin user      [admin]
-Admin password  [*****]        (default: admin)
+OpenCloud URL   [default: https://host.docker.internal:9200]
+Admin user      [default: admin]
+Admin password  [default: admin]
+
 ```
 
-That's it. A full run takes about **15–25 minutes** on a local instance. You can run it again at any
-time – it only adds what is missing and updates what changed.
+- Full run takes about **15–25 minutes** on a local instance. (You can run it again at any
+time – it only adds what is missing and updates what changed.)
 
 macOS/Linux: `./populate.sh` (both just call `python3 populate.py`).
-
-## What gets created
-
-| | |
-|---|---|
-| Users | 1,000: 450 employees (Hamburg, Edinburgh, Copenhagen), 500 external partners from 19 companies, 5 supervisory board members, 45 former employees (disabled) |
-| Groups | departments, offices, project teams, partner companies (`ext-…`), `all-staff`, … |
-| Spaces | 25 – projects (e.g. Harrow Bay Offshore Wind), departments (Finance, HR, Legal, …), company-wide (Handbook, Brand Assets, …) with description, image and readme |
-| Access | realistic: departments edit their space, project teams their project, everyone reads the handbook; confidential spaces restricted; externals only get the folders they work on |
-| Files | ~1,100 company documents with real, consistent content + ~4,300 personal files; original modification dates and older versions |
-| Sharing | ~4,600 shares between users (≈ 5 per user), 50+ public links, tags on ~600 files |
-| Search | try `HB-RISK-017`, `harbour porpoise`, `WE-PPA-2026-004`, `skylark`, `Arcturus` |
-
-`data/metadata.json` describes everything: company, users, groups, spaces, members, every file
-(title, author, dates, tags, shares, versions) and suggested search terms.
 
 ### No questions asked
 
@@ -50,17 +36,19 @@ OC_URL=https://cloud.example OC_ADMIN_USER=admin OC_ADMIN_PASSWORD=secret python
 
 Or edit the `SETTINGS` block at the top of `populate.py` once.
 
-## Requirements
 
-- **Python 3.9+** – nothing to install, the script uses only the standard library.
-- **An OpenCloud admin account.** An app token works instead of the password.
-- **Basic auth enabled on the server** – the script logs in as the demo users to upload their
-  personal files and profile pictures. In OpenCloud: `PROXY_ENABLE_BASIC_AUTH=true`.
-- Optional: favourites are only set if they are enabled on the server.
+## What gets created
+- Realistic Content (25 Spaces, 5.000 files incl. modification dates, tags & versions)
+- ~4,600 shares between users (≈ 5 per user), 50+ public links, tags on ~600 files
+- 1.000 Users with Groups and profile pictures
+- All Details in `data/metadata.json`
+
+
 
 ## Log in as a demo user
 
 All demo users have the password **`demo`**. Good accounts for demos:
+Public links are protected with the password **`Weyland-2026!`**.
 
 | User | Who | Sees |
 |---|---|---|
@@ -72,9 +60,14 @@ All demo users have the password **`demo`**. Good accounts for demos:
 | `lars.henriksen` | External – Halden Turbine Systems | only folders shared with his company |
 | `rachel.moss` | External – Marlow Ecology | only environmental folders |
 
-Public links are protected with the password **`Weyland-2026!`**.
 
+## Requirements
 
+- **Python 3.9+** – nothing to install, the script uses only the standard library.
+- **An OpenCloud admin account.** An app token works instead of the password.
+- **Basic auth enabled on the server** – the script logs in as the demo users to upload their
+  personal files and profile pictures. In OpenCloud: `PROXY_ENABLE_BASIC_AUTH=true`.
+- Optional: favourites are only set if they are enabled on the server.
 
 ## Remove the demo data
 
