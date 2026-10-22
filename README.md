@@ -8,7 +8,7 @@ folder shares for external partners and public links.
 ## Quick start
 
 ```bash
-cd weyland-energy-demo-data
+cd opencloud-dummy-files
 python3 populate.py
 ```
 
